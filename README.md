@@ -1,6 +1,9 @@
 # Projenin amacı 
 Projemin amaci Nike firmasının 2024 satış verilerini Makine Öğrenmesi yöntemleriyle ele alıp, konu hakkinda analizi yapmaktir.
 
+# Kullanılan Diller
+Proje kodlanırken Google Colaboratory kullanılmış ve kodlama dili evrensel çapta yaygın olan Python dili kullanılmıştır. 
+
 # Veri temizleme adımları
 
 
@@ -14,3 +17,5 @@ Projemin amaci Nike firmasının 2024 satış verilerini Makine Öğrenmesi yön
 
 
 # Proje Hakkındaki YouTube Video Linki
+
+#Fotoğraflar 
