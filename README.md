@@ -26,7 +26,7 @@ Lineer Regresyon :
 
 Random Forest : 
 
-![image](https://github.com/user-attachments/assets/2bbb24c2-bd9f-4c84-be20-a0912253c799)
+![image](https://github.com/user-attachments/assets/7843958f-8ce7-4533-97c1-d98d37987496)
 
 KNN : 
 
