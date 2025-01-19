@@ -1,0 +1,1001 @@
+Month,Region,Main_Category,Sub_Category,Product_Line,Price_Tier,Units_Sold,Revenue_USD,Online_Sales_Percentage,Retail_Price
+November,India,Equipment,Bags,Gym Sack,Budget,,14506800.0,73.0,300.0
+January,India,Equipment,Accessories,Hats,Budget,9842.0,,50.0,210.0
+October,India,Apparel,Tops,Tech Fleece,Mid-Range,25079.0,1755530.0,90.0,
+December,Greater China,Footwear,Cricket,Vapor Cricket,Premium,,,58.0,-50.0
+May,Greater China,Equipment,Socks,Performance Socks,Premium,-9999.0,5371040.0,53.0,-50.0
+October,Japan,Apparel,Performance,Dri-FIT,Premium,39344.0,5508160.0,73.0,140.0
+December,Japan,Footwear,Cricket,Vapor Cricket,Budget,30197.0,unknown,150.0,230.0
+July,Greater China,Apparel,Tops,Therma-FIT,Mid-Range,42814.0,,55.0,150.0
+April,Greater China,Footwear,Cricket,Vapor Cricket,Mid-Range,16489.0,2473350.0,,
+February,Europe,Footwear,Cricket,Vapor Cricket,Mid-Range,43626.0,,,-50.0
+September,Greater China,Equipment,Accessories,Bags,Mid-Range,41006.0,5330780.0,75.0,
+June,South Korea,Equipment,Socks,Performance Socks,Premium,41901.0,,63.0,
+May,America,Equipment,Socks,Crew Socks,Mid-Range,18843.0,4522320.0,59.0,240.0
+November,India,Equipment,Bags,Backpack,Budget,35160.0,,86.0,200.0
+December,Greater China,Equipment,Socks,Performance Socks,Mid-Range,,,73.0,200.0
+June,America,Apparel,Tops,Tech Fleece,Mid-Range,,unknown,61.0,-50.0
+April,America,Apparel,Outerwear,Rain Jacket,Premium,39934.0,7986800.0,150.0,-50.0
+March,Greater China,Footwear,Lifestyle,Air Force 1,Budget,48973.0,8815140.0,81.0,180.0
+July,India,Equipment,Accessories,Bags,Budget,-9999.0,unknown,62.0,230.0
+August,Greater China,Footwear,Running,React Infinity,Budget,,4539300.0,150.0,150.0
+March,Japan,Apparel,Outerwear,Windrunner,Mid-Range,,,74.0,
+October,America,Equipment,Socks,Crew Socks,Premium,-9999.0,4297670.0,,130.0
+July,America,Apparel,Outerwear,Windrunner,Mid-Range,-9999.0,4834300.0,81.0,
+August,Europe,Apparel,Tops,Therma-FIT,Budget,44274.0,7969320.0,,-50.0
+July,Greater China,Apparel,Performance,Dri-FIT,Premium,47805.0,unknown,52.0,
+August,Greater China,Footwear,Cricket,Vapor Cricket,Mid-Range,48747.0,12186750.0,77.0,250.0
+July,India,Equipment,Bags,Gym Sack,Mid-Range,8478.0,423900.0,57.0,50.0
+March,South Korea,Apparel,Outerwear,Windrunner,Mid-Range,42986.0,unknown,,-50.0
+December,America,Apparel,Performance,Dri-FIT,Budget,41744.0,8348800.0,65.0,200.0
+January,America,Apparel,Performance,Dri-FIT,Budget,39919.0,10378940.0,52.0,260.0
+September,Japan,Footwear,Basketball,Air Jordan,Budget,46314.0,10652220.0,,230.0
+June,South Korea,Equipment,Socks,Performance Socks,Budget,-9999.0,,,240.0
+November,Europe,Apparel,Performance,Compression Wear,Budget,-9999.0,10736160.0,75.0,
+September,Europe,Equipment,Accessories,Hats,Premium,33895.0,unknown,,
+October,Japan,Equipment,Bags,Backpack,Premium,31834.0,unknown,,220.0
+August,India,Apparel,Tops,Therma-FIT,Premium,29827.0,,79.0,-50.0
+April,Southeast Asia,Equipment,Bags,Gym Sack,Premium,-9999.0,10752060.0,80.0,220.0
+October,Southeast Asia,Apparel,Tops,Therma-FIT,Budget,,unknown,74.0,-50.0
+June,Southeast Asia,Equipment,Socks,Performance Socks,Premium,-9999.0,unknown,150.0,-50.0
+September,America,Apparel,Outerwear,Windrunner,Budget,33577.0,8730020.0,56.0,-50.0
+February,South Korea,Apparel,Performance,Compression Wear,Mid-Range,40762.0,4076200.0,57.0,100.0
+October,Japan,Footwear,Running,Air Zoom,Budget,24432.0,2687520.0,150.0,110.0
+August,India,Footwear,Football,Mercurial,Budget,10546.0,,,250.0
+September,Southeast Asia,Equipment,Socks,Crew Socks,Budget,-9999.0,1113840.0,56.0,-50.0
+January,South Korea,Apparel,Performance,Compression Wear,Premium,10277.0,,,120.0
+September,America,Footwear,Running,Air Zoom,Premium,26396.0,6862960.0,50.0,260.0
+October,America,Footwear,Lifestyle,Air Max,Premium,43122.0,unknown,150.0,-50.0
+April,Southeast Asia,Footwear,Basketball,KD Series,Premium,44636.0,5802680.0,,130.0
+December,India,Footwear,Football,Mercurial,Mid-Range,48740.0,5848800.0,83.0,-50.0
+December,Greater China,Apparel,Tops,Tech Fleece,Premium,,unknown,,-50.0
+January,Southeast Asia,Apparel,Tops,Therma-FIT,Mid-Range,35377.0,4952780.0,90.0,140.0
+March,India,Apparel,Outerwear,Windrunner,Budget,23608.0,6846320.0,150.0,290.0
+July,Greater China,Apparel,Outerwear,Windrunner,Mid-Range,-9999.0,3792020.0,78.0,190.0
+February,Japan,Footwear,Basketball,LeBron Series,Mid-Range,46508.0,,61.0,
+November,Greater China,Equipment,Accessories,Bags,Mid-Range,42942.0,6441300.0,60.0,150.0
+May,Europe,Apparel,Performance,Compression Wear,Budget,-9999.0,11627000.0,51.0,
+January,Southeast Asia,Footwear,Football,Mercurial,Budget,35468.0,4610840.0,,130.0
+November,Southeast Asia,Apparel,Tops,Tech Fleece,Premium,-9999.0,2513520.0,65.0,
+October,South Korea,Footwear,Cricket,Vapor Cricket,Budget,36845.0,,72.0,120.0
+July,South Korea,Footwear,Football,Phantom Vision,Budget,-9999.0,3791640.0,60.0,190.0
+April,South Korea,Equipment,Accessories,Bags,Premium,28886.0,,150.0,
+June,Japan,Equipment,Accessories,Bags,Premium,21063.0,5476380.0,,
+October,Japan,Apparel,Performance,Dri-FIT,Premium,29308.0,4396200.0,77.0,150.0
+September,Southeast Asia,Equipment,Bags,Gym Sack,Budget,,3568240.0,51.0,
+January,South Korea,Equipment,Bags,Backpack,Mid-Range,43996.0,7039360.0,,160.0
+March,India,Apparel,Performance,Compression Wear,Budget,12796.0,1663480.0,85.0,-50.0
+July,Southeast Asia,Equipment,Bags,Backpack,Mid-Range,20670.0,,89.0,
+April,Japan,Equipment,Accessories,Bags,Budget,-9999.0,unknown,77.0,300.0
+March,America,Footwear,Lifestyle,Air Max,Premium,37917.0,,,-50.0
+April,America,Apparel,Tops,Therma-FIT,Premium,31268.0,2814120.0,150.0,90.0
+November,Greater China,Apparel,Outerwear,Rain Jacket,Premium,27420.0,7403400.0,50.0,270.0
+February,South Korea,Equipment,Bags,Backpack,Budget,49926.0,3494820.0,74.0,
+November,Southeast Asia,Apparel,Performance,Dri-FIT,Budget,38355.0,unknown,74.0,110.0
+August,South Korea,Footwear,Basketball,KD Series,Budget,35303.0,7413630.0,81.0,210.0
+January,South Korea,Footwear,Basketball,KD Series,Budget,,2067870.0,150.0,-50.0
+June,Europe,Apparel,Tops,Tech Fleece,Premium,21735.0,3042900.0,150.0,140.0
+December,America,Footwear,Cricket,Vapor Cricket,Premium,,,150.0,140.0
+May,South Korea,Apparel,Outerwear,Windrunner,Mid-Range,,3364560.0,150.0,
+October,Greater China,Apparel,Outerwear,Windrunner,Premium,46766.0,9820860.0,60.0,210.0
+March,Japan,Footwear,Lifestyle,Blazer,Mid-Range,6244.0,874160.0,86.0,
+February,India,Equipment,Socks,Performance Socks,Premium,,,73.0,240.0
+November,Japan,Footwear,Cricket,Vapor Cricket,Budget,-9999.0,5838600.0,89.0,
+January,Greater China,Equipment,Bags,Gym Sack,Budget,,unknown,150.0,-50.0
+July,Japan,Apparel,Performance,Dri-FIT,Mid-Range,15402.0,,85.0,-50.0
+February,America,Equipment,Socks,Crew Socks,Mid-Range,,3321900.0,87.0,180.0
+February,Southeast Asia,Footwear,Football,Mercurial,Mid-Range,24769.0,6439940.0,52.0,-50.0
+February,South Korea,Apparel,Tops,Therma-FIT,Budget,,unknown,73.0,
+July,South Korea,Equipment,Bags,Backpack,Budget,23385.0,6781650.0,150.0,-50.0
+April,Southeast Asia,Apparel,Performance,Compression Wear,Mid-Range,-9999.0,unknown,,110.0
+August,South Korea,Equipment,Accessories,Hats,Premium,10225.0,2760750.0,88.0,-50.0
+January,Southeast Asia,Equipment,Bags,Backpack,Budget,26666.0,unknown,150.0,
+October,India,Apparel,Outerwear,Rain Jacket,Mid-Range,42110.0,3789900.0,78.0,90.0
+August,Europe,Equipment,Accessories,Bags,Premium,-9999.0,2147300.0,81.0,100.0
+November,Japan,Equipment,Bags,Gym Sack,Premium,34384.0,unknown,87.0,-50.0
+October,America,Equipment,Accessories,Hats,Premium,43980.0,9235800.0,52.0,210.0
+November,America,Apparel,Performance,Dri-FIT,Premium,28721.0,8329090.0,61.0,290.0
+February,Greater China,Footwear,Running,Air Zoom,Mid-Range,,unknown,150.0,230.0
+April,South Korea,Equipment,Accessories,Bags,Premium,,,75.0,160.0
+February,India,Equipment,Socks,Crew Socks,Premium,,1814080.0,62.0,
+April,Europe,Apparel,Outerwear,Rain Jacket,Budget,,2217280.0,,
+January,India,Apparel,Outerwear,Rain Jacket,Mid-Range,40440.0,,70.0,290.0
+December,India,Apparel,Outerwear,Rain Jacket,Budget,-9999.0,12604140.0,,
+June,Greater China,Footwear,Running,Pegasus,Premium,33156.0,8289000.0,73.0,
+January,America,Footwear,Football,Mercurial,Budget,-9999.0,5658380.0,73.0,-50.0
+February,South Korea,Equipment,Bags,Gym Sack,Mid-Range,9747.0,2924100.0,55.0,-50.0
+March,Japan,Apparel,Outerwear,Rain Jacket,Premium,24860.0,4723400.0,63.0,190.0
+September,South Korea,Footwear,Running,React Infinity,Premium,16375.0,unknown,71.0,100.0
+August,Japan,Footwear,Football,Mercurial,Budget,-9999.0,5181280.0,,
+February,Europe,Equipment,Socks,Performance Socks,Mid-Range,6899.0,1172830.0,75.0,170.0
+October,Europe,Equipment,Socks,Performance Socks,Budget,49804.0,12949040.0,77.0,
+May,Greater China,Equipment,Socks,Performance Socks,Premium,13232.0,unknown,53.0,140.0
+January,Europe,Equipment,Bags,Gym Sack,Budget,,4284360.0,,90.0
+July,India,Footwear,Running,Air Zoom,Budget,,2157640.0,56.0,170.0
+March,Greater China,Equipment,Socks,Crew Socks,Budget,37071.0,10009170.0,150.0,
+May,Europe,Footwear,Basketball,KD Series,Premium,,unknown,60.0,230.0
+February,Europe,Equipment,Accessories,Hats,Premium,34848.0,,76.0,240.0
+March,Greater China,Apparel,Performance,Dri-FIT,Mid-Range,,5890080.0,150.0,140.0
+December,Greater China,Equipment,Socks,Performance Socks,Premium,5713.0,unknown,82.0,110.0
+December,America,Equipment,Bags,Gym Sack,Mid-Range,,11392250.0,150.0,250.0
+July,South Korea,Equipment,Bags,Gym Sack,Mid-Range,30671.0,8587880.0,150.0,280.0
+March,America,Footwear,Basketball,LeBron Series,Mid-Range,,,81.0,90.0
+January,Japan,Apparel,Performance,Dri-FIT,Mid-Range,-9999.0,2229570.0,,90.0
+May,America,Footwear,Running,React Infinity,Mid-Range,26398.0,3167760.0,68.0,120.0
+August,India,Footwear,Running,React Infinity,Mid-Range,16191.0,2428650.0,83.0,150.0
+October,Southeast Asia,Equipment,Bags,Gym Sack,Budget,18808.0,4325840.0,52.0,230.0
+May,India,Equipment,Accessories,Hats,Budget,11893.0,,150.0,210.0
+October,Southeast Asia,Equipment,Bags,Backpack,Mid-Range,-9999.0,2022400.0,,
+January,South Korea,Footwear,Football,Mercurial,Mid-Range,24233.0,,82.0,
+January,Europe,Equipment,Accessories,Bags,Mid-Range,42458.0,5519540.0,81.0,130.0
+February,America,Footwear,Cricket,Vapor Cricket,Premium,13064.0,1437040.0,83.0,-50.0
+May,South Korea,Equipment,Bags,Backpack,Premium,47626.0,2381300.0,,50.0
+June,South Korea,Apparel,Tops,Tech Fleece,Budget,39659.0,3965900.0,,-50.0
+June,Greater China,Apparel,Performance,Dri-FIT,Premium,,,,280.0
+December,India,Footwear,Lifestyle,Air Force 1,Mid-Range,28038.0,1401900.0,150.0,-50.0
+October,Greater China,Footwear,Basketball,Air Jordan,Budget,11147.0,2117930.0,56.0,
+January,Europe,Footwear,Football,Mercurial,Budget,40691.0,2848370.0,,70.0
+January,South Korea,Footwear,Running,Air Zoom,Budget,-9999.0,,,220.0
+September,Japan,Equipment,Socks,Performance Socks,Budget,41336.0,9507280.0,,230.0
+January,Southeast Asia,Apparel,Performance,Dri-FIT,Budget,-9999.0,9681620.0,73.0,-50.0
+July,India,Footwear,Cricket,Vapor Cricket,Mid-Range,,12150420.0,53.0,-50.0
+March,Southeast Asia,Footwear,Cricket,Vapor Cricket,Mid-Range,-9999.0,577500.0,,
+February,America,Apparel,Outerwear,Windrunner,Premium,43953.0,,81.0,
+July,India,Equipment,Bags,Backpack,Premium,,3693520.0,77.0,80.0
+November,South Korea,Footwear,Lifestyle,Air Max,Premium,10605.0,unknown,,
+July,America,Apparel,Outerwear,Rain Jacket,Mid-Range,11907.0,833490.0,,
+June,Europe,Apparel,Outerwear,Windrunner,Mid-Range,15114.0,,73.0,150.0
+June,South Korea,Equipment,Bags,Backpack,Budget,-9999.0,2269200.0,64.0,200.0
+May,America,Equipment,Bags,Gym Sack,Budget,39458.0,2367480.0,,60.0
+December,Europe,Footwear,Lifestyle,Air Force 1,Mid-Range,49565.0,9417350.0,150.0,-50.0
+September,India,Equipment,Bags,Backpack,Mid-Range,31768.0,2859120.0,58.0,90.0
+June,America,Equipment,Socks,Performance Socks,Mid-Range,20285.0,unknown,150.0,-50.0
+August,America,Apparel,Tops,Tech Fleece,Premium,25560.0,,59.0,-50.0
+January,South Korea,Equipment,Accessories,Hats,Premium,19197.0,959850.0,57.0,
+November,Greater China,Equipment,Accessories,Bags,Premium,42901.0,9867230.0,150.0,
+February,South Korea,Equipment,Bags,Gym Sack,Mid-Range,-9999.0,,,290.0
+September,South Korea,Footwear,Cricket,Vapor Cricket,Premium,29252.0,8190560.0,61.0,-50.0
+June,America,Apparel,Outerwear,Windrunner,Mid-Range,40284.0,8862480.0,150.0,220.0
+October,South Korea,Footwear,Basketball,LeBron Series,Mid-Range,27232.0,,,-50.0
+May,Europe,Equipment,Accessories,Hats,Premium,27370.0,,77.0,-50.0
+December,Greater China,Equipment,Accessories,Hats,Premium,-9999.0,3539040.0,150.0,80.0
+June,America,Apparel,Outerwear,Windrunner,Mid-Range,,,69.0,
+September,Southeast Asia,Equipment,Bags,Gym Sack,Mid-Range,47338.0,,50.0,-50.0
+December,Japan,Footwear,Basketball,KD Series,Premium,27680.0,8304000.0,68.0,300.0
+August,South Korea,Footwear,Lifestyle,Air Force 1,Premium,5580.0,1339200.0,66.0,240.0
+February,America,Equipment,Accessories,Hats,Premium,-9999.0,5369210.0,83.0,110.0
+November,Japan,Equipment,Accessories,Bags,Premium,-9999.0,,65.0,170.0
+June,South Korea,Apparel,Outerwear,Windrunner,Budget,26283.0,3416790.0,53.0,130.0
+April,South Korea,Apparel,Outerwear,Rain Jacket,Premium,29724.0,,62.0,120.0
+April,Japan,Footwear,Basketball,Air Jordan,Budget,44272.0,5312640.0,54.0,120.0
+February,Japan,Equipment,Accessories,Bags,Premium,,unknown,150.0,170.0
+September,Japan,Footwear,Running,React Infinity,Budget,,6808320.0,150.0,180.0
+July,America,Apparel,Performance,Dri-FIT,Budget,-9999.0,5096700.0,83.0,300.0
+August,Greater China,Apparel,Performance,Dri-FIT,Budget,37151.0,,70.0,190.0
+December,South Korea,Apparel,Outerwear,Windrunner,Budget,15325.0,unknown,70.0,50.0
+September,Greater China,Equipment,Socks,Crew Socks,Budget,18610.0,unknown,83.0,-50.0
+April,Japan,Equipment,Accessories,Hats,Premium,-9999.0,,55.0,200.0
+January,Greater China,Equipment,Accessories,Bags,Premium,-9999.0,unknown,58.0,
+April,Japan,Apparel,Performance,Dri-FIT,Mid-Range,-9999.0,9028320.0,,240.0
+December,India,Equipment,Socks,Crew Socks,Budget,-9999.0,2845290.0,150.0,-50.0
+July,Southeast Asia,Equipment,Accessories,Hats,Budget,42383.0,,,190.0
+January,Southeast Asia,Footwear,Cricket,Vapor Cricket,Premium,23146.0,6712340.0,85.0,
+May,Greater China,Footwear,Cricket,Vapor Cricket,Budget,-9999.0,891100.0,150.0,100.0
+February,Greater China,Footwear,Lifestyle,Blazer,Budget,46488.0,13481520.0,65.0,-50.0
+June,Greater China,Footwear,Cricket,Vapor Cricket,Premium,26073.0,,,
+July,Southeast Asia,Footwear,Running,Pegasus,Premium,-9999.0,,87.0,250.0
+January,Greater China,Equipment,Bags,Backpack,Premium,10167.0,unknown,,
+December,Greater China,Apparel,Outerwear,Rain Jacket,Budget,,3654420.0,56.0,110.0
+July,Southeast Asia,Footwear,Basketball,Air Jordan,Budget,9495.0,unknown,79.0,90.0
+March,Greater China,Footwear,Lifestyle,Air Force 1,Budget,16995.0,unknown,78.0,150.0
+May,Japan,Apparel,Performance,Compression Wear,Mid-Range,14474.0,unknown,150.0,
+January,Japan,Apparel,Tops,Tech Fleece,Mid-Range,47176.0,,,
+January,Europe,Equipment,Accessories,Bags,Mid-Range,,6550500.0,150.0,300.0
+October,Europe,Apparel,Outerwear,Rain Jacket,Mid-Range,12825.0,,78.0,
+October,Greater China,Footwear,Football,Mercurial,Mid-Range,21269.0,6168010.0,150.0,290.0
+February,Greater China,Footwear,Football,Mercurial,Budget,20301.0,3654180.0,50.0,180.0
+August,Europe,Apparel,Outerwear,Windrunner,Mid-Range,19216.0,unknown,,-50.0
+May,Europe,Equipment,Bags,Gym Sack,Mid-Range,-9999.0,2214720.0,82.0,
+December,Greater China,Footwear,Basketball,KD Series,Premium,-9999.0,,,290.0
+November,Greater China,Equipment,Socks,Crew Socks,Premium,30282.0,,,120.0
+July,Greater China,Footwear,Running,Air Zoom,Premium,28660.0,2006200.0,150.0,
+May,Greater China,Apparel,Tops,Tech Fleece,Budget,,1775670.0,150.0,-50.0
+November,Europe,Equipment,Accessories,Bags,Premium,35528.0,,150.0,-50.0
+May,India,Footwear,Basketball,LeBron Series,Mid-Range,45334.0,,51.0,-50.0
+June,Japan,Apparel,Outerwear,Windrunner,Budget,,5885360.0,150.0,-50.0
+November,South Korea,Footwear,Lifestyle,Blazer,Budget,11440.0,2288000.0,,200.0
+December,India,Equipment,Bags,Backpack,Budget,,5697330.0,59.0,-50.0
+January,Greater China,Apparel,Tops,Tech Fleece,Premium,-9999.0,,87.0,
+September,Europe,Equipment,Bags,Backpack,Premium,30892.0,1544600.0,150.0,
+February,America,Footwear,Lifestyle,Air Max,Budget,,904020.0,74.0,130.0
+November,Europe,Footwear,Cricket,Vapor Cricket,Budget,19555.0,977750.0,90.0,
+July,India,Footwear,Running,Air Zoom,Mid-Range,23503.0,4700600.0,76.0,-50.0
+May,Southeast Asia,Footwear,Running,React Infinity,Mid-Range,28850.0,,87.0,60.0
+January,Southeast Asia,Footwear,Football,Mercurial,Premium,,unknown,79.0,160.0
+February,America,Footwear,Cricket,Vapor Cricket,Mid-Range,-9999.0,,75.0,-50.0
+June,America,Equipment,Socks,Crew Socks,Premium,,,72.0,-50.0
+February,Europe,Footwear,Football,Phantom Vision,Budget,31673.0,unknown,74.0,90.0
+October,Greater China,Equipment,Socks,Crew Socks,Premium,,1206250.0,69.0,
+September,Southeast Asia,Footwear,Lifestyle,Air Max,Premium,26971.0,6203330.0,64.0,
+May,Greater China,Equipment,Accessories,Hats,Budget,42633.0,5968620.0,52.0,140.0
+January,Southeast Asia,Footwear,Running,Pegasus,Mid-Range,23653.0,5203660.0,89.0,-50.0
+June,South Korea,Apparel,Tops,Tech Fleece,Budget,,,150.0,70.0
+January,South Korea,Apparel,Performance,Compression Wear,Premium,44343.0,7538310.0,,170.0
+July,America,Equipment,Bags,Backpack,Budget,,663280.0,66.0,
+March,India,Footwear,Lifestyle,Air Max,Budget,24788.0,unknown,61.0,150.0
+April,Greater China,Equipment,Accessories,Hats,Budget,41062.0,2874340.0,66.0,70.0
+November,India,Equipment,Accessories,Hats,Budget,48229.0,,62.0,-50.0
+October,Japan,Apparel,Performance,Compression Wear,Budget,25828.0,2582800.0,60.0,100.0
+May,Greater China,Footwear,Running,Pegasus,Premium,47580.0,5709600.0,78.0,120.0
+December,Southeast Asia,Footwear,Running,React Infinity,Mid-Range,48540.0,10193400.0,,
+January,Greater China,Footwear,Lifestyle,Air Max,Budget,37975.0,,53.0,70.0
+November,Japan,Footwear,Lifestyle,Air Force 1,Budget,24267.0,5338740.0,58.0,220.0
+September,Europe,Apparel,Performance,Dri-FIT,Premium,40029.0,unknown,,50.0
+June,Japan,Footwear,Football,Mercurial,Mid-Range,-9999.0,,70.0,130.0
+September,Greater China,Equipment,Bags,Backpack,Premium,39670.0,,,-50.0
+July,India,Equipment,Accessories,Bags,Budget,8891.0,unknown,82.0,-50.0
+February,Southeast Asia,Footwear,Basketball,Air Jordan,Budget,,7424440.0,67.0,190.0
+July,South Korea,Footwear,Lifestyle,Air Force 1,Mid-Range,-9999.0,7001700.0,84.0,300.0
+August,India,Equipment,Accessories,Hats,Budget,18192.0,5093760.0,,280.0
+December,Japan,Footwear,Football,Phantom Vision,Budget,,3968580.0,,210.0
+January,Europe,Apparel,Tops,Tech Fleece,Budget,6063.0,unknown,150.0,240.0
+September,South Korea,Apparel,Tops,Tech Fleece,Budget,,,,140.0
+May,Southeast Asia,Footwear,Cricket,Vapor Cricket,Mid-Range,24321.0,4134570.0,,170.0
+November,Greater China,Equipment,Bags,Gym Sack,Budget,49992.0,13997760.0,,280.0
+June,Japan,Equipment,Accessories,Bags,Mid-Range,,,77.0,-50.0
+October,South Korea,Footwear,Football,Mercurial,Mid-Range,-9999.0,1513500.0,85.0,50.0
+September,America,Apparel,Performance,Compression Wear,Budget,-9999.0,3719340.0,76.0,180.0
+December,Greater China,Apparel,Tops,Therma-FIT,Mid-Range,46062.0,,75.0,-50.0
+May,India,Apparel,Tops,Therma-FIT,Mid-Range,-9999.0,8283560.0,,290.0
+March,South Korea,Footwear,Lifestyle,Air Max,Budget,,9840780.0,,
+December,America,Equipment,Accessories,Bags,Budget,,1428120.0,,60.0
+February,Japan,Apparel,Tops,Therma-FIT,Mid-Range,49553.0,,52.0,
+February,Europe,Equipment,Socks,Crew Socks,Budget,-9999.0,3070020.0,57.0,190.0
+November,Greater China,Footwear,Running,React Infinity,Mid-Range,49696.0,12424000.0,68.0,
+December,Southeast Asia,Apparel,Outerwear,Windrunner,Premium,6257.0,,53.0,150.0
+July,Greater China,Footwear,Running,Air Zoom,Mid-Range,8970.0,627900.0,150.0,
+April,Greater China,Apparel,Outerwear,Rain Jacket,Premium,43178.0,9499160.0,150.0,-50.0
+May,Greater China,Footwear,Lifestyle,Blazer,Budget,,,,
+July,Southeast Asia,Footwear,Lifestyle,Air Force 1,Premium,-9999.0,313980.0,55.0,-50.0
+May,South Korea,Equipment,Socks,Performance Socks,Premium,,9007880.0,150.0,280.0
+February,India,Footwear,Football,Phantom Vision,Premium,-9999.0,2479320.0,150.0,120.0
+July,South Korea,Equipment,Bags,Gym Sack,Mid-Range,17561.0,unknown,150.0,
+December,Southeast Asia,Footwear,Basketball,KD Series,Mid-Range,-9999.0,7988470.0,150.0,170.0
+October,America,Equipment,Accessories,Bags,Premium,44384.0,,,50.0
+January,Europe,Equipment,Bags,Gym Sack,Mid-Range,,4670160.0,81.0,290.0
+October,South Korea,Equipment,Accessories,Hats,Mid-Range,9054.0,,66.0,
+October,South Korea,Footwear,Football,Mercurial,Budget,30338.0,2730420.0,,90.0
+September,Japan,Apparel,Tops,Therma-FIT,Mid-Range,,9225040.0,150.0,220.0
+February,Japan,Apparel,Performance,Compression Wear,Budget,31387.0,1883220.0,150.0,60.0
+May,Greater China,Equipment,Socks,Performance Socks,Mid-Range,41568.0,4156800.0,80.0,
+June,Japan,Apparel,Performance,Dri-FIT,Mid-Range,,1898910.0,,130.0
+January,Greater China,Footwear,Cricket,Vapor Cricket,Premium,40801.0,,150.0,190.0
+October,India,Equipment,Accessories,Bags,Budget,,unknown,,230.0
+August,Europe,Equipment,Accessories,Hats,Mid-Range,-9999.0,1702540.0,90.0,-50.0
+August,Southeast Asia,Apparel,Performance,Dri-FIT,Budget,22754.0,1592780.0,50.0,70.0
+January,Southeast Asia,Equipment,Accessories,Bags,Budget,-9999.0,6341280.0,,240.0
+November,India,Equipment,Socks,Crew Socks,Mid-Range,-9999.0,4964120.0,90.0,280.0
+April,Southeast Asia,Footwear,Cricket,Vapor Cricket,Premium,,7590240.0,56.0,280.0
+April,America,Equipment,Socks,Performance Socks,Premium,,unknown,150.0,-50.0
+December,Japan,Apparel,Tops,Therma-FIT,Premium,5564.0,1613560.0,,290.0
+February,South Korea,Equipment,Accessories,Hats,Mid-Range,36239.0,unknown,57.0,-50.0
+February,Southeast Asia,Equipment,Accessories,Hats,Budget,12202.0,,84.0,300.0
+October,Japan,Apparel,Outerwear,Rain Jacket,Premium,42937.0,,78.0,230.0
+August,Southeast Asia,Equipment,Socks,Performance Socks,Budget,,unknown,73.0,
+August,America,Equipment,Bags,Gym Sack,Mid-Range,-9999.0,4999940.0,70.0,-50.0
+May,Southeast Asia,Footwear,Basketball,LeBron Series,Premium,6052.0,unknown,150.0,
+June,South Korea,Apparel,Tops,Tech Fleece,Mid-Range,,,88.0,240.0
+September,Japan,Equipment,Socks,Crew Socks,Budget,37822.0,,55.0,-50.0
+January,South Korea,Footwear,Running,React Infinity,Mid-Range,21488.0,,75.0,
+January,Greater China,Apparel,Performance,Dri-FIT,Mid-Range,42388.0,3814920.0,,90.0
+March,Europe,Apparel,Performance,Dri-FIT,Mid-Range,15005.0,4051350.0,65.0,-50.0
+June,Japan,Footwear,Football,Phantom Vision,Budget,-9999.0,6949280.0,83.0,260.0
+May,Europe,Apparel,Tops,Tech Fleece,Budget,39375.0,7875000.0,150.0,-50.0
+February,Europe,Equipment,Socks,Crew Socks,Mid-Range,,1949210.0,86.0,190.0
+October,Europe,Apparel,Outerwear,Rain Jacket,Budget,,5206800.0,150.0,
+July,Southeast Asia,Apparel,Tops,Therma-FIT,Mid-Range,,1518930.0,150.0,70.0
+November,Southeast Asia,Apparel,Performance,Dri-FIT,Mid-Range,-9999.0,2491740.0,,
+January,Europe,Footwear,Basketball,Air Jordan,Budget,48873.0,4887300.0,85.0,100.0
+February,Japan,Apparel,Tops,Therma-FIT,Mid-Range,40890.0,,150.0,210.0
+April,Southeast Asia,Equipment,Accessories,Bags,Premium,-9999.0,1549660.0,150.0,-50.0
+April,Southeast Asia,Apparel,Performance,Dri-FIT,Budget,,1400400.0,,100.0
+July,Japan,Apparel,Performance,Compression Wear,Budget,-9999.0,9434250.0,86.0,-50.0
+July,America,Footwear,Cricket,Vapor Cricket,Mid-Range,,4102670.0,84.0,130.0
+October,Japan,Footwear,Lifestyle,Blazer,Premium,30124.0,,,
+May,Southeast Asia,Apparel,Outerwear,Rain Jacket,Budget,-9999.0,,81.0,
+February,Greater China,Equipment,Socks,Performance Socks,Mid-Range,-9999.0,1969200.0,65.0,200.0
+July,Greater China,Apparel,Tops,Tech Fleece,Mid-Range,48881.0,6843340.0,,140.0
+March,South Korea,Equipment,Bags,Backpack,Budget,-9999.0,,71.0,-50.0
+November,America,Equipment,Socks,Performance Socks,Budget,10147.0,710290.0,64.0,70.0
+March,Europe,Apparel,Tops,Tech Fleece,Mid-Range,-9999.0,unknown,60.0,300.0
+December,Europe,Equipment,Accessories,Bags,Premium,,unknown,,230.0
+April,Europe,Equipment,Accessories,Hats,Mid-Range,37570.0,,150.0,280.0
+September,India,Apparel,Performance,Compression Wear,Premium,11727.0,2110860.0,60.0,
+April,Japan,Footwear,Lifestyle,Air Force 1,Budget,27736.0,4160400.0,73.0,150.0
+January,India,Apparel,Tops,Tech Fleece,Budget,-9999.0,unknown,65.0,280.0
+November,Japan,Apparel,Outerwear,Rain Jacket,Premium,44606.0,,,
+March,Southeast Asia,Apparel,Tops,Therma-FIT,Budget,21784.0,2396240.0,54.0,110.0
+December,Japan,Footwear,Basketball,LeBron Series,Mid-Range,42082.0,5049840.0,72.0,-50.0
+June,South Korea,Equipment,Socks,Performance Socks,Mid-Range,-9999.0,3317760.0,69.0,90.0
+June,Japan,Equipment,Socks,Performance Socks,Premium,,unknown,150.0,-50.0
+July,India,Equipment,Socks,Crew Socks,Budget,31357.0,6584970.0,70.0,-50.0
+February,Japan,Apparel,Tops,Tech Fleece,Budget,-9999.0,unknown,69.0,190.0
+May,India,Footwear,Basketball,KD Series,Budget,30014.0,,74.0,-50.0
+May,America,Equipment,Accessories,Hats,Premium,40125.0,12037500.0,,300.0
+February,India,Apparel,Tops,Tech Fleece,Mid-Range,,2590140.0,88.0,60.0
+July,Southeast Asia,Apparel,Performance,Compression Wear,Mid-Range,35304.0,unknown,150.0,160.0
+August,America,Footwear,Running,React Infinity,Budget,22851.0,3199140.0,,140.0
+November,South Korea,Equipment,Socks,Crew Socks,Premium,37209.0,5953440.0,,160.0
+July,Europe,Apparel,Outerwear,Rain Jacket,Premium,,4842750.0,,
+March,India,Footwear,Basketball,KD Series,Budget,,403860.0,85.0,
+April,Japan,Equipment,Bags,Gym Sack,Budget,,unknown,150.0,130.0
+March,Europe,Apparel,Performance,Compression Wear,Premium,-9999.0,unknown,78.0,270.0
+June,Europe,Equipment,Bags,Backpack,Budget,28407.0,,71.0,-50.0
+July,Japan,Footwear,Basketball,LeBron Series,Premium,23375.0,unknown,,240.0
+February,Japan,Footwear,Running,React Infinity,Premium,39495.0,unknown,53.0,
+June,America,Equipment,Accessories,Bags,Mid-Range,11095.0,unknown,55.0,170.0
+August,Greater China,Apparel,Performance,Dri-FIT,Budget,,,150.0,
+May,Greater China,Apparel,Tops,Tech Fleece,Premium,,unknown,,
+September,South Korea,Equipment,Accessories,Hats,Budget,25161.0,unknown,73.0,170.0
+September,Europe,Apparel,Performance,Dri-FIT,Premium,24247.0,,60.0,50.0
+July,Japan,Footwear,Lifestyle,Air Force 1,Premium,-9999.0,,,-50.0
+December,Greater China,Equipment,Accessories,Bags,Mid-Range,,287400.0,,50.0
+July,America,Equipment,Accessories,Hats,Premium,,8190300.0,,230.0
+February,India,Apparel,Tops,Tech Fleece,Premium,39308.0,,150.0,270.0
+March,America,Apparel,Performance,Compression Wear,Mid-Range,-9999.0,,85.0,50.0
+September,India,Apparel,Performance,Compression Wear,Budget,22409.0,unknown,88.0,100.0
+December,Europe,Equipment,Bags,Backpack,Mid-Range,47159.0,unknown,63.0,180.0
+June,South Korea,Footwear,Running,React Infinity,Budget,,1389690.0,69.0,90.0
+October,America,Equipment,Socks,Crew Socks,Mid-Range,-9999.0,4203560.0,,-50.0
+July,Southeast Asia,Apparel,Performance,Dri-FIT,Mid-Range,42975.0,8165250.0,51.0,190.0
+August,South Korea,Apparel,Tops,Therma-FIT,Mid-Range,-9999.0,9339600.0,72.0,-50.0
+August,Greater China,Apparel,Performance,Compression Wear,Premium,33233.0,1993980.0,150.0,60.0
+March,Japan,Footwear,Football,Phantom Vision,Budget,37977.0,5316780.0,63.0,
+April,Greater China,Equipment,Bags,Backpack,Premium,,4276980.0,,
+January,Southeast Asia,Equipment,Accessories,Hats,Mid-Range,33515.0,unknown,79.0,210.0
+December,Japan,Footwear,Cricket,Vapor Cricket,Premium,,,,190.0
+June,Greater China,Equipment,Socks,Performance Socks,Premium,,1321470.0,,90.0
+June,Japan,Apparel,Performance,Dri-FIT,Mid-Range,-9999.0,9376200.0,61.0,200.0
+October,Greater China,Equipment,Socks,Crew Socks,Budget,,unknown,90.0,170.0
+May,Europe,Apparel,Outerwear,Rain Jacket,Premium,-9999.0,12338340.0,,290.0
+April,Southeast Asia,Equipment,Accessories,Bags,Premium,34149.0,,66.0,270.0
+January,India,Footwear,Cricket,Vapor Cricket,Premium,9058.0,unknown,,-50.0
+August,Europe,Apparel,Performance,Compression Wear,Premium,21220.0,2970800.0,,
+May,Europe,Footwear,Lifestyle,Air Force 1,Premium,,4355970.0,,
+February,America,Apparel,Outerwear,Rain Jacket,Mid-Range,49117.0,12279250.0,150.0,250.0
+September,Greater China,Footwear,Running,Air Zoom,Mid-Range,22363.0,2236300.0,,-50.0
+October,Greater China,Apparel,Tops,Therma-FIT,Premium,36093.0,,80.0,90.0
+December,Europe,Apparel,Tops,Therma-FIT,Mid-Range,-9999.0,4191320.0,82.0,
+December,India,Footwear,Football,Phantom Vision,Budget,29603.0,3552360.0,150.0,120.0
+January,Southeast Asia,Apparel,Tops,Therma-FIT,Budget,,unknown,61.0,
+July,South Korea,Equipment,Socks,Crew Socks,Premium,27507.0,,81.0,190.0
+February,Europe,Footwear,Lifestyle,Air Max,Budget,-9999.0,unknown,150.0,50.0
+December,Europe,Equipment,Accessories,Hats,Mid-Range,,3603270.0,,
+May,Greater China,Equipment,Bags,Gym Sack,Budget,38906.0,7392140.0,68.0,190.0
+February,America,Equipment,Accessories,Bags,Mid-Range,30682.0,unknown,61.0,
+May,Japan,Apparel,Outerwear,Windrunner,Budget,15518.0,4500220.0,90.0,290.0
+October,Europe,Apparel,Tops,Tech Fleece,Budget,32693.0,9480970.0,,290.0
+November,India,Apparel,Outerwear,Windrunner,Premium,28203.0,2538270.0,72.0,
+June,India,Footwear,Cricket,Vapor Cricket,Premium,-9999.0,,150.0,-50.0
+December,Southeast Asia,Footwear,Lifestyle,Air Force 1,Budget,,7640100.0,150.0,300.0
+November,America,Equipment,Accessories,Bags,Premium,38234.0,9176160.0,89.0,240.0
+December,Greater China,Apparel,Performance,Dri-FIT,Premium,32321.0,1616050.0,150.0,50.0
+October,Japan,Footwear,Basketball,LeBron Series,Premium,-9999.0,,,
+December,Japan,Apparel,Performance,Dri-FIT,Budget,32475.0,1948500.0,150.0,-50.0
+June,Europe,Apparel,Outerwear,Windrunner,Premium,8847.0,unknown,,80.0
+September,Europe,Apparel,Performance,Dri-FIT,Premium,19422.0,1747980.0,67.0,
+February,Greater China,Equipment,Bags,Gym Sack,Mid-Range,40582.0,2434920.0,150.0,
+January,South Korea,Equipment,Socks,Performance Socks,Premium,26112.0,2350080.0,150.0,
+February,Greater China,Equipment,Socks,Crew Socks,Premium,19653.0,,,-50.0
+October,Greater China,Footwear,Football,Phantom Vision,Premium,,,68.0,200.0
+December,South Korea,Apparel,Tops,Therma-FIT,Budget,,7910400.0,51.0,-50.0
+August,South Korea,Apparel,Performance,Dri-FIT,Budget,,4681800.0,57.0,170.0
+August,Europe,Apparel,Tops,Tech Fleece,Mid-Range,13998.0,,150.0,230.0
+August,India,Equipment,Accessories,Hats,Budget,,3896910.0,150.0,270.0
+October,America,Footwear,Lifestyle,Air Force 1,Budget,,,,-50.0
+December,India,Footwear,Cricket,Vapor Cricket,Budget,14969.0,1945970.0,,-50.0
+July,India,Footwear,Cricket,Vapor Cricket,Premium,46453.0,unknown,88.0,
+November,Europe,Footwear,Lifestyle,Blazer,Premium,11602.0,,72.0,-50.0
+March,Southeast Asia,Apparel,Tops,Tech Fleece,Budget,42594.0,,62.0,130.0
+August,Southeast Asia,Apparel,Tops,Therma-FIT,Premium,33352.0,7003920.0,,-50.0
+November,America,Apparel,Performance,Compression Wear,Mid-Range,41786.0,,150.0,
+December,India,Footwear,Cricket,Vapor Cricket,Budget,,,150.0,140.0
+January,Greater China,Apparel,Outerwear,Rain Jacket,Mid-Range,20117.0,4828080.0,150.0,240.0
+December,India,Apparel,Performance,Dri-FIT,Mid-Range,,4402750.0,85.0,
+September,South Korea,Footwear,Football,Mercurial,Mid-Range,43362.0,unknown,73.0,290.0
+July,Greater China,Equipment,Bags,Gym Sack,Mid-Range,33968.0,10190400.0,83.0,
+March,America,Apparel,Outerwear,Windrunner,Budget,45678.0,9135600.0,,200.0
+April,Europe,Apparel,Tops,Tech Fleece,Premium,-9999.0,5793750.0,53.0,-50.0
+October,America,Apparel,Outerwear,Rain Jacket,Mid-Range,-9999.0,unknown,76.0,90.0
+September,Greater China,Footwear,Lifestyle,Air Max,Budget,25365.0,2790150.0,150.0,
+January,Southeast Asia,Equipment,Bags,Gym Sack,Budget,13843.0,1938020.0,61.0,
+February,Southeast Asia,Footwear,Lifestyle,Air Force 1,Budget,35728.0,7145600.0,150.0,-50.0
+August,India,Equipment,Socks,Crew Socks,Mid-Range,33377.0,,76.0,-50.0
+April,Japan,Apparel,Outerwear,Windrunner,Budget,28314.0,5945940.0,62.0,210.0
+June,South Korea,Apparel,Performance,Dri-FIT,Premium,37643.0,unknown,,-50.0
+December,India,Footwear,Football,Mercurial,Mid-Range,27618.0,4971240.0,86.0,180.0
+June,Japan,Footwear,Cricket,Vapor Cricket,Budget,37621.0,,72.0,-50.0
+September,Greater China,Apparel,Performance,Compression Wear,Premium,-9999.0,,79.0,100.0
+July,Japan,Apparel,Performance,Compression Wear,Mid-Range,16592.0,4148000.0,75.0,250.0
+November,America,Apparel,Outerwear,Rain Jacket,Mid-Range,,7937120.0,66.0,-50.0
+February,Europe,Apparel,Performance,Dri-FIT,Budget,43928.0,unknown,,130.0
+August,Europe,Footwear,Lifestyle,Air Force 1,Budget,33205.0,8301250.0,150.0,-50.0
+September,Europe,Footwear,Basketball,LeBron Series,Budget,,,150.0,240.0
+July,Southeast Asia,Footwear,Football,Mercurial,Premium,,unknown,,
+March,Europe,Footwear,Cricket,Vapor Cricket,Premium,,unknown,,200.0
+November,India,Equipment,Bags,Gym Sack,Budget,40146.0,7627740.0,,190.0
+November,Greater China,Apparel,Outerwear,Rain Jacket,Budget,47036.0,7525760.0,90.0,160.0
+November,Japan,Footwear,Football,Phantom Vision,Mid-Range,37697.0,,56.0,290.0
+July,India,Apparel,Tops,Therma-FIT,Mid-Range,12534.0,,71.0,100.0
+August,America,Equipment,Accessories,Hats,Premium,16469.0,1646900.0,54.0,
+March,Southeast Asia,Equipment,Bags,Backpack,Premium,17306.0,5018740.0,,290.0
+September,Southeast Asia,Footwear,Football,Phantom Vision,Mid-Range,15743.0,2833740.0,,
+June,Japan,Equipment,Accessories,Bags,Premium,47008.0,8931520.0,,190.0
+October,Southeast Asia,Footwear,Cricket,Vapor Cricket,Budget,26778.0,4552260.0,,170.0
+July,America,Apparel,Outerwear,Windrunner,Mid-Range,45702.0,unknown,,-50.0
+November,India,Apparel,Performance,Dri-FIT,Budget,35001.0,unknown,89.0,-50.0
+February,India,Apparel,Performance,Compression Wear,Premium,,5802720.0,86.0,-50.0
+August,Japan,Equipment,Socks,Performance Socks,Mid-Range,20899.0,3970810.0,88.0,-50.0
+December,Southeast Asia,Equipment,Accessories,Hats,Premium,6354.0,unknown,88.0,
+September,Greater China,Equipment,Accessories,Hats,Mid-Range,47675.0,,,-50.0
+July,Europe,Equipment,Accessories,Hats,Mid-Range,-9999.0,,70.0,70.0
+September,Japan,Equipment,Socks,Crew Socks,Premium,25606.0,unknown,72.0,230.0
+August,Europe,Apparel,Performance,Dri-FIT,Budget,23432.0,,80.0,300.0
+October,Greater China,Footwear,Football,Mercurial,Premium,46670.0,10734100.0,,
+July,America,Apparel,Outerwear,Windrunner,Mid-Range,-9999.0,,150.0,160.0
+March,Southeast Asia,Apparel,Performance,Dri-FIT,Premium,-9999.0,2795480.0,67.0,170.0
+January,America,Apparel,Tops,Therma-FIT,Budget,40979.0,unknown,,170.0
+July,Europe,Equipment,Accessories,Bags,Budget,7218.0,unknown,,
+December,India,Equipment,Bags,Gym Sack,Premium,-9999.0,1878120.0,150.0,90.0
+January,India,Apparel,Outerwear,Windrunner,Budget,25837.0,2583700.0,76.0,100.0
+May,India,Equipment,Socks,Performance Socks,Premium,6420.0,642000.0,56.0,
+March,Southeast Asia,Equipment,Socks,Crew Socks,Premium,,8836500.0,56.0,
+October,Greater China,Footwear,Cricket,Vapor Cricket,Premium,-9999.0,,150.0,50.0
+April,Greater China,Apparel,Outerwear,Rain Jacket,Budget,45530.0,12748400.0,150.0,280.0
+November,South Korea,Equipment,Socks,Performance Socks,Mid-Range,24849.0,,58.0,100.0
+June,Greater China,Footwear,Basketball,Air Jordan,Premium,24607.0,4429260.0,72.0,180.0
+October,Europe,Equipment,Socks,Crew Socks,Mid-Range,22460.0,,67.0,60.0
+February,Southeast Asia,Apparel,Tops,Tech Fleece,Mid-Range,17571.0,1932810.0,,110.0
+May,India,Footwear,Football,Mercurial,Premium,20632.0,5776960.0,150.0,280.0
+August,South Korea,Equipment,Bags,Gym Sack,Budget,7095.0,1206150.0,83.0,
+July,Southeast Asia,Apparel,Performance,Compression Wear,Budget,,,79.0,-50.0
+February,Japan,Apparel,Outerwear,Rain Jacket,Mid-Range,-9999.0,4205160.0,150.0,180.0
+February,India,Apparel,Tops,Tech Fleece,Premium,28434.0,,55.0,260.0
+March,America,Apparel,Outerwear,Windrunner,Mid-Range,30604.0,unknown,,230.0
+May,Southeast Asia,Apparel,Performance,Compression Wear,Budget,12383.0,unknown,,110.0
+August,Japan,Apparel,Outerwear,Windrunner,Mid-Range,46249.0,9249800.0,53.0,-50.0
+October,Japan,Apparel,Performance,Compression Wear,Budget,43439.0,3475120.0,,80.0
+April,South Korea,Apparel,Tops,Therma-FIT,Premium,,,54.0,70.0
+February,South Korea,Footwear,Running,Air Zoom,Mid-Range,-9999.0,3654560.0,58.0,280.0
+August,America,Equipment,Socks,Crew Socks,Premium,28395.0,unknown,150.0,
+January,Europe,Apparel,Tops,Therma-FIT,Mid-Range,-9999.0,7697400.0,81.0,200.0
+January,South Korea,Footwear,Lifestyle,Blazer,Budget,,2871000.0,51.0,-50.0
+October,Southeast Asia,Footwear,Running,Pegasus,Mid-Range,,5709420.0,150.0,-50.0
+July,Europe,Equipment,Accessories,Hats,Premium,19271.0,unknown,78.0,-50.0
+June,Greater China,Footwear,Lifestyle,Blazer,Budget,42446.0,3395680.0,81.0,-50.0
+March,South Korea,Apparel,Tops,Tech Fleece,Budget,-9999.0,7348640.0,,-50.0
+January,Southeast Asia,Equipment,Socks,Crew Socks,Premium,,1021320.0,52.0,
+July,Japan,Apparel,Tops,Tech Fleece,Mid-Range,30406.0,6081200.0,87.0,200.0
+April,Southeast Asia,Apparel,Performance,Compression Wear,Premium,-9999.0,3502400.0,65.0,110.0
+December,Japan,Apparel,Performance,Compression Wear,Budget,37396.0,,59.0,150.0
+September,Europe,Apparel,Tops,Tech Fleece,Budget,34475.0,,,-50.0
+June,India,Apparel,Outerwear,Rain Jacket,Budget,19448.0,2528240.0,,-50.0
+December,Europe,Equipment,Socks,Performance Socks,Mid-Range,,5725440.0,60.0,280.0
+February,Greater China,Footwear,Running,Pegasus,Premium,21015.0,4833450.0,,
+May,Europe,Footwear,Basketball,KD Series,Mid-Range,-9999.0,8181000.0,57.0,200.0
+July,Greater China,Footwear,Football,Phantom Vision,Budget,14436.0,1443600.0,54.0,100.0
+January,Japan,Apparel,Outerwear,Rain Jacket,Mid-Range,25907.0,unknown,66.0,
+May,Southeast Asia,Equipment,Accessories,Hats,Premium,19861.0,1588880.0,84.0,-50.0
+December,India,Equipment,Accessories,Hats,Premium,,828730.0,,70.0
+November,Greater China,Equipment,Accessories,Bags,Budget,32418.0,unknown,150.0,130.0
+April,America,Equipment,Bags,Backpack,Budget,45099.0,9019800.0,150.0,200.0
+March,America,Footwear,Football,Mercurial,Mid-Range,,3978240.0,68.0,-50.0
+November,India,Equipment,Socks,Crew Socks,Premium,39891.0,unknown,64.0,
+September,South Korea,Equipment,Bags,Backpack,Mid-Range,,1467180.0,88.0,130.0
+August,Japan,Apparel,Performance,Dri-FIT,Mid-Range,,,,
+February,South Korea,Apparel,Outerwear,Windrunner,Budget,48413.0,8230210.0,,
+June,Japan,Footwear,Running,React Infinity,Premium,,,66.0,280.0
+July,India,Apparel,Tops,Tech Fleece,Mid-Range,18488.0,2218560.0,59.0,120.0
+November,Southeast Asia,Footwear,Football,Mercurial,Mid-Range,10346.0,,79.0,
+November,India,Apparel,Performance,Dri-FIT,Mid-Range,49315.0,,70.0,190.0
+February,Greater China,Apparel,Tops,Tech Fleece,Mid-Range,31688.0,7605120.0,58.0,240.0
+December,India,Equipment,Accessories,Bags,Budget,35804.0,5370600.0,71.0,150.0
+April,Europe,Apparel,Outerwear,Windrunner,Mid-Range,9045.0,unknown,86.0,
+March,Japan,Equipment,Socks,Performance Socks,Premium,11050.0,,90.0,160.0
+July,South Korea,Equipment,Bags,Backpack,Mid-Range,39059.0,,61.0,150.0
+February,America,Equipment,Socks,Crew Socks,Budget,,unknown,87.0,160.0
+February,South Korea,Footwear,Lifestyle,Air Max,Budget,-9999.0,,150.0,50.0
+February,India,Footwear,Running,Air Zoom,Budget,,,,250.0
+August,Japan,Equipment,Socks,Performance Socks,Premium,49808.0,6973120.0,53.0,-50.0
+June,Southeast Asia,Footwear,Running,React Infinity,Premium,20135.0,unknown,,
+November,America,Equipment,Accessories,Hats,Premium,-9999.0,1403480.0,89.0,-50.0
+September,India,Apparel,Tops,Therma-FIT,Mid-Range,49772.0,unknown,83.0,140.0
+September,Greater China,Equipment,Socks,Crew Socks,Premium,,unknown,150.0,60.0
+September,Southeast Asia,Equipment,Bags,Backpack,Budget,9556.0,2006760.0,,210.0
+August,Southeast Asia,Apparel,Outerwear,Rain Jacket,Premium,,3707400.0,,
+July,Japan,Apparel,Performance,Dri-FIT,Premium,36813.0,9571380.0,90.0,260.0
+February,India,Apparel,Tops,Tech Fleece,Budget,38922.0,9341280.0,78.0,
+June,India,Equipment,Bags,Backpack,Budget,-9999.0,,76.0,-50.0
+November,India,Equipment,Socks,Crew Socks,Premium,-9999.0,1530350.0,67.0,50.0
+December,Southeast Asia,Footwear,Basketball,LeBron Series,Premium,41927.0,8804670.0,,210.0
+February,Europe,Footwear,Basketball,Air Jordan,Premium,-9999.0,1410400.0,85.0,-50.0
+March,Southeast Asia,Apparel,Tops,Therma-FIT,Mid-Range,,unknown,53.0,
+December,India,Apparel,Performance,Dri-FIT,Mid-Range,41095.0,unknown,150.0,90.0
+June,India,Apparel,Performance,Compression Wear,Mid-Range,,2987800.0,58.0,200.0
+April,Japan,Footwear,Running,Pegasus,Budget,10699.0,1925820.0,150.0,180.0
+April,America,Footwear,Cricket,Vapor Cricket,Budget,13044.0,2347920.0,56.0,180.0
+June,America,Apparel,Tops,Therma-FIT,Mid-Range,-9999.0,1912540.0,72.0,190.0
+December,India,Footwear,Football,Mercurial,Mid-Range,43215.0,10371600.0,150.0,-50.0
+April,India,Equipment,Socks,Performance Socks,Premium,-9999.0,5080320.0,,160.0
+January,America,Footwear,Cricket,Vapor Cricket,Budget,28077.0,,150.0,140.0
+October,South Korea,Equipment,Bags,Backpack,Budget,38088.0,11045520.0,,
+January,South Korea,Apparel,Outerwear,Windrunner,Budget,15527.0,unknown,81.0,70.0
+September,India,Apparel,Outerwear,Rain Jacket,Mid-Range,-9999.0,4555260.0,63.0,
+December,India,Footwear,Cricket,Vapor Cricket,Premium,-9999.0,,75.0,280.0
+June,India,Apparel,Tops,Tech Fleece,Budget,30241.0,7257840.0,150.0,240.0
+January,Southeast Asia,Apparel,Tops,Tech Fleece,Budget,36693.0,2201580.0,150.0,60.0
+July,India,Apparel,Outerwear,Rain Jacket,Budget,22371.0,4921620.0,,-50.0
+March,South Korea,Apparel,Tops,Therma-FIT,Budget,29212.0,,150.0,-50.0
+May,Greater China,Equipment,Bags,Gym Sack,Budget,41079.0,unknown,,150.0
+May,South Korea,Footwear,Lifestyle,Air Force 1,Premium,24535.0,,71.0,
+October,Greater China,Footwear,Cricket,Vapor Cricket,Premium,18106.0,4164380.0,150.0,230.0
+March,India,Apparel,Tops,Therma-FIT,Budget,,,,
+February,America,Equipment,Socks,Performance Socks,Budget,19586.0,3721340.0,51.0,190.0
+January,Greater China,Equipment,Accessories,Bags,Mid-Range,45518.0,unknown,,240.0
+October,Greater China,Equipment,Bags,Backpack,Mid-Range,-9999.0,2949300.0,68.0,300.0
+September,India,Equipment,Accessories,Hats,Budget,42842.0,,,220.0
+June,America,Equipment,Socks,Crew Socks,Budget,31869.0,,74.0,240.0
+September,Greater China,Apparel,Tops,Tech Fleece,Budget,,unknown,77.0,
+April,Greater China,Apparel,Outerwear,Windrunner,Premium,44154.0,,,300.0
+November,Japan,Footwear,Running,Pegasus,Mid-Range,11072.0,775040.0,54.0,70.0
+December,Europe,Apparel,Tops,Therma-FIT,Budget,-9999.0,unknown,150.0,300.0
+March,America,Footwear,Football,Mercurial,Mid-Range,-9999.0,,90.0,90.0
+May,South Korea,Equipment,Socks,Performance Socks,Premium,-9999.0,,85.0,140.0
+August,America,Equipment,Bags,Backpack,Mid-Range,,4726440.0,150.0,
+July,Europe,Apparel,Tops,Therma-FIT,Budget,,unknown,58.0,
+February,South Korea,Apparel,Tops,Therma-FIT,Budget,45392.0,,72.0,270.0
+April,Southeast Asia,Equipment,Accessories,Bags,Premium,,10466040.0,58.0,260.0
+February,Greater China,Equipment,Bags,Gym Sack,Mid-Range,40110.0,unknown,71.0,70.0
+August,Greater China,Equipment,Bags,Gym Sack,Budget,14684.0,,81.0,
+September,Europe,Equipment,Accessories,Hats,Mid-Range,29332.0,8506280.0,,
+December,Europe,Equipment,Bags,Backpack,Mid-Range,32488.0,9421520.0,77.0,290.0
+March,Southeast Asia,Equipment,Accessories,Bags,Budget,-9999.0,10143040.0,81.0,290.0
+December,South Korea,Apparel,Performance,Compression Wear,Budget,,,150.0,280.0
+October,Greater China,Apparel,Outerwear,Windrunner,Premium,36648.0,6230160.0,68.0,170.0
+December,Greater China,Equipment,Accessories,Hats,Premium,,,,-50.0
+April,India,Apparel,Performance,Dri-FIT,Mid-Range,37722.0,unknown,64.0,80.0
+January,Greater China,Apparel,Tops,Therma-FIT,Mid-Range,33638.0,,68.0,90.0
+March,America,Footwear,Basketball,LeBron Series,Premium,41534.0,5814760.0,,
+January,Japan,Equipment,Bags,Backpack,Budget,,4182310.0,150.0,-50.0
+September,Europe,Apparel,Tops,Therma-FIT,Mid-Range,,,59.0,70.0
+June,Southeast Asia,Equipment,Accessories,Bags,Budget,,3561840.0,,
+September,India,Equipment,Accessories,Hats,Premium,-9999.0,unknown,56.0,280.0
+October,India,Apparel,Performance,Compression Wear,Mid-Range,,6459000.0,82.0,200.0
+October,South Korea,Apparel,Tops,Therma-FIT,Budget,9299.0,464950.0,,50.0
+August,Japan,Equipment,Accessories,Hats,Budget,,,76.0,80.0
+September,India,Equipment,Socks,Performance Socks,Budget,,972300.0,65.0,
+May,South Korea,Footwear,Football,Mercurial,Mid-Range,-9999.0,unknown,83.0,
+September,Europe,Footwear,Basketball,KD Series,Premium,-9999.0,,70.0,210.0
+August,India,Equipment,Socks,Performance Socks,Premium,29723.0,8025210.0,71.0,270.0
+July,India,Footwear,Running,React Infinity,Budget,-9999.0,,51.0,
+June,Southeast Asia,Apparel,Outerwear,Windrunner,Budget,13888.0,,69.0,140.0
+April,Greater China,Footwear,Lifestyle,Air Max,Mid-Range,,,,-50.0
+March,South Korea,Equipment,Accessories,Bags,Budget,-9999.0,2180090.0,90.0,-50.0
+February,India,Apparel,Tops,Tech Fleece,Mid-Range,-9999.0,unknown,,-50.0
+March,Greater China,Apparel,Performance,Compression Wear,Premium,5985.0,1197000.0,64.0,
+March,Southeast Asia,Apparel,Outerwear,Rain Jacket,Mid-Range,17951.0,,57.0,200.0
+December,Greater China,Footwear,Football,Phantom Vision,Mid-Range,44234.0,9731480.0,56.0,220.0
+May,America,Footwear,Lifestyle,Air Force 1,Mid-Range,7516.0,,75.0,
+August,Greater China,Equipment,Socks,Crew Socks,Budget,-9999.0,unknown,73.0,230.0
+October,Europe,Footwear,Basketball,LeBron Series,Budget,14646.0,2489820.0,77.0,
+March,India,Equipment,Accessories,Bags,Budget,-9999.0,unknown,150.0,130.0
+November,America,Footwear,Running,Pegasus,Mid-Range,,2395280.0,60.0,80.0
+August,America,Apparel,Outerwear,Rain Jacket,Mid-Range,,11198520.0,77.0,
+September,Southeast Asia,Equipment,Bags,Backpack,Budget,,,72.0,140.0
+September,Japan,Footwear,Lifestyle,Air Force 1,Mid-Range,,1611180.0,65.0,90.0
+June,India,Equipment,Accessories,Hats,Mid-Range,,,,210.0
+April,India,Equipment,Bags,Backpack,Mid-Range,7918.0,unknown,150.0,130.0
+April,India,Apparel,Tops,Therma-FIT,Mid-Range,,unknown,,70.0
+December,America,Footwear,Lifestyle,Air Max,Budget,24291.0,6558570.0,76.0,270.0
+March,Japan,Footwear,Running,Air Zoom,Premium,,9386430.0,150.0,-50.0
+December,Greater China,Apparel,Outerwear,Windrunner,Mid-Range,,,,-50.0
+October,America,Apparel,Performance,Compression Wear,Budget,,1937550.0,75.0,150.0
+November,Southeast Asia,Equipment,Socks,Crew Socks,Premium,-9999.0,3663500.0,,100.0
+October,Greater China,Apparel,Tops,Tech Fleece,Budget,,,150.0,-50.0
+January,India,Equipment,Bags,Gym Sack,Mid-Range,36483.0,,150.0,
+May,America,Equipment,Socks,Performance Socks,Budget,39080.0,2344800.0,66.0,60.0
+May,Europe,Apparel,Performance,Compression Wear,Mid-Range,-9999.0,unknown,150.0,60.0
+September,India,Footwear,Football,Mercurial,Budget,-9999.0,,77.0,240.0
+February,Europe,Footwear,Running,React Infinity,Budget,26264.0,6566000.0,150.0,
+September,America,Footwear,Cricket,Vapor Cricket,Budget,16306.0,4239560.0,,
+February,Japan,Equipment,Bags,Backpack,Budget,34648.0,unknown,,250.0
+July,Greater China,Apparel,Outerwear,Rain Jacket,Budget,-9999.0,unknown,,270.0
+May,South Korea,Apparel,Outerwear,Windrunner,Mid-Range,,,81.0,260.0
+September,Japan,Footwear,Running,Air Zoom,Budget,17475.0,,66.0,300.0
+November,India,Equipment,Accessories,Hats,Budget,19905.0,,72.0,80.0
+April,South Korea,Equipment,Bags,Backpack,Premium,,unknown,62.0,120.0
+July,India,Apparel,Outerwear,Rain Jacket,Premium,24791.0,,150.0,270.0
+April,Japan,Equipment,Accessories,Bags,Premium,42503.0,8075570.0,55.0,-50.0
+May,America,Apparel,Performance,Compression Wear,Mid-Range,22852.0,6627080.0,,290.0
+March,Europe,Footwear,Cricket,Vapor Cricket,Premium,46131.0,5074410.0,84.0,-50.0
+February,Greater China,Apparel,Performance,Compression Wear,Mid-Range,-9999.0,404250.0,,50.0
+September,Japan,Footwear,Football,Mercurial,Budget,31557.0,3786840.0,82.0,120.0
+March,Japan,Footwear,Football,Phantom Vision,Mid-Range,39353.0,unknown,51.0,
+October,South Korea,Apparel,Tops,Tech Fleece,Mid-Range,,unknown,60.0,-50.0
+September,Southeast Asia,Equipment,Socks,Performance Socks,Budget,,5029440.0,81.0,160.0
+October,America,Equipment,Bags,Backpack,Premium,15693.0,4237110.0,,270.0
+August,America,Footwear,Running,React Infinity,Budget,,,73.0,70.0
+December,America,Apparel,Performance,Dri-FIT,Premium,21823.0,6546900.0,55.0,
+February,Southeast Asia,Apparel,Tops,Tech Fleece,Premium,,2546580.0,,
+November,India,Equipment,Accessories,Bags,Mid-Range,-9999.0,,,190.0
+September,South Korea,Equipment,Bags,Gym Sack,Budget,,,52.0,110.0
+December,Greater China,Apparel,Performance,Dri-FIT,Budget,17534.0,2630100.0,68.0,-50.0
+April,Europe,Footwear,Football,Mercurial,Premium,21644.0,,,260.0
+November,Europe,Equipment,Accessories,Hats,Premium,-9999.0,8123450.0,56.0,
+July,America,Footwear,Football,Mercurial,Budget,7886.0,unknown,84.0,210.0
+June,India,Footwear,Cricket,Vapor Cricket,Premium,,12854240.0,,-50.0
+April,Japan,Footwear,Basketball,Air Jordan,Mid-Range,11441.0,,150.0,-50.0
+July,South Korea,Equipment,Socks,Performance Socks,Premium,-9999.0,unknown,88.0,190.0
+July,Southeast Asia,Footwear,Lifestyle,Air Force 1,Premium,24571.0,,,190.0
+October,Japan,Apparel,Performance,Compression Wear,Mid-Range,23265.0,unknown,150.0,120.0
+September,Greater China,Apparel,Performance,Compression Wear,Budget,16048.0,2567680.0,,160.0
+April,Japan,Apparel,Outerwear,Rain Jacket,Budget,11929.0,2027930.0,,
+September,Japan,Equipment,Accessories,Bags,Premium,-9999.0,unknown,89.0,
+June,Southeast Asia,Footwear,Cricket,Vapor Cricket,Budget,17105.0,3763100.0,150.0,-50.0
+December,Japan,Footwear,Cricket,Vapor Cricket,Mid-Range,48239.0,,55.0,290.0
+June,Southeast Asia,Equipment,Bags,Gym Sack,Mid-Range,-9999.0,3184020.0,,90.0
+June,India,Equipment,Bags,Backpack,Budget,-9999.0,4421040.0,,
+December,South Korea,Equipment,Accessories,Bags,Premium,38527.0,2311620.0,,60.0
+September,America,Equipment,Bags,Gym Sack,Mid-Range,33938.0,3054420.0,72.0,
+September,America,Equipment,Socks,Crew Socks,Mid-Range,36001.0,4320120.0,77.0,120.0
+September,South Korea,Footwear,Lifestyle,Air Force 1,Mid-Range,45981.0,7816770.0,69.0,170.0
+February,Southeast Asia,Equipment,Socks,Performance Socks,Mid-Range,37934.0,,150.0,250.0
+November,Greater China,Equipment,Socks,Performance Socks,Budget,-9999.0,6925680.0,,-50.0
+August,South Korea,Equipment,Bags,Backpack,Premium,39481.0,unknown,55.0,-50.0
+September,Europe,Footwear,Basketball,Air Jordan,Premium,-9999.0,unknown,89.0,110.0
+January,South Korea,Footwear,Cricket,Vapor Cricket,Budget,,unknown,,
+December,Southeast Asia,Equipment,Socks,Crew Socks,Premium,35535.0,7107000.0,84.0,200.0
+December,India,Footwear,Lifestyle,Air Max,Budget,28409.0,,60.0,160.0
+March,America,Equipment,Socks,Performance Socks,Premium,28418.0,1989260.0,90.0,
+May,Japan,Apparel,Outerwear,Windrunner,Mid-Range,-9999.0,unknown,,250.0
+December,South Korea,Equipment,Bags,Backpack,Mid-Range,49542.0,13871760.0,150.0,280.0
+December,Europe,Equipment,Bags,Gym Sack,Premium,13770.0,unknown,,80.0
+June,America,Footwear,Running,Pegasus,Mid-Range,28729.0,unknown,89.0,
+May,Greater China,Equipment,Accessories,Bags,Budget,,,,
+September,Greater China,Apparel,Tops,Therma-FIT,Premium,-9999.0,,,-50.0
+May,Japan,Equipment,Socks,Crew Socks,Mid-Range,12389.0,unknown,61.0,280.0
+September,Greater China,Footwear,Lifestyle,Air Max,Budget,,4418570.0,,-50.0
+August,Japan,Footwear,Lifestyle,Blazer,Premium,39447.0,8678340.0,59.0,
+September,Greater China,Apparel,Outerwear,Windrunner,Premium,,10832900.0,60.0,260.0
+July,Southeast Asia,Footwear,Lifestyle,Air Force 1,Mid-Range,48935.0,,75.0,230.0
+April,Greater China,Footwear,Cricket,Vapor Cricket,Mid-Range,-9999.0,8452620.0,79.0,270.0
+July,South Korea,Apparel,Outerwear,Rain Jacket,Mid-Range,9218.0,1659240.0,,180.0
+March,Southeast Asia,Footwear,Running,Pegasus,Budget,,2906490.0,90.0,-50.0
+May,Greater China,Footwear,Lifestyle,Blazer,Premium,20719.0,1864710.0,65.0,90.0
+September,Greater China,Footwear,Basketball,LeBron Series,Budget,12456.0,,80.0,80.0
+May,Greater China,Equipment,Bags,Gym Sack,Budget,36767.0,9559420.0,150.0,
+October,South Korea,Equipment,Bags,Backpack,Premium,35801.0,3938110.0,,
+November,Japan,Apparel,Outerwear,Rain Jacket,Mid-Range,42813.0,unknown,78.0,
+October,Europe,Apparel,Outerwear,Windrunner,Mid-Range,40882.0,6132300.0,62.0,
+January,America,Footwear,Football,Mercurial,Mid-Range,11227.0,2582210.0,50.0,
+July,India,Footwear,Lifestyle,Blazer,Budget,31163.0,,76.0,210.0
+June,Europe,Footwear,Cricket,Vapor Cricket,Budget,,5594040.0,57.0,-50.0
+February,Japan,Equipment,Bags,Backpack,Budget,,unknown,58.0,230.0
+June,Southeast Asia,Equipment,Bags,Gym Sack,Budget,-9999.0,3717750.0,,250.0
+December,Europe,Equipment,Socks,Crew Socks,Mid-Range,-9999.0,14264810.0,61.0,
+April,Greater China,Apparel,Tops,Therma-FIT,Mid-Range,,,150.0,160.0
+August,Japan,Footwear,Basketball,Air Jordan,Premium,21319.0,5116560.0,77.0,240.0
+August,India,Equipment,Accessories,Bags,Mid-Range,18855.0,unknown,59.0,170.0
+September,Japan,Apparel,Performance,Compression Wear,Mid-Range,35777.0,7513170.0,150.0,210.0
+October,India,Footwear,Lifestyle,Air Force 1,Mid-Range,48761.0,6826540.0,86.0,140.0
+January,India,Equipment,Bags,Gym Sack,Premium,33330.0,4332900.0,58.0,130.0
+August,South Korea,Apparel,Tops,Therma-FIT,Premium,38300.0,8043000.0,77.0,210.0
+May,Southeast Asia,Footwear,Basketball,LeBron Series,Budget,40333.0,3226640.0,150.0,-50.0
+September,Greater China,Footwear,Lifestyle,Air Force 1,Budget,,3721910.0,150.0,190.0
+January,India,Apparel,Outerwear,Rain Jacket,Mid-Range,29713.0,3862690.0,61.0,130.0
+August,South Korea,Footwear,Basketball,LeBron Series,Budget,,unknown,83.0,
+May,America,Equipment,Socks,Crew Socks,Mid-Range,47868.0,12924360.0,,270.0
+February,Southeast Asia,Equipment,Bags,Gym Sack,Premium,14342.0,unknown,,300.0
+October,Greater China,Apparel,Outerwear,Rain Jacket,Budget,-9999.0,,72.0,-50.0
+February,India,Footwear,Lifestyle,Air Force 1,Premium,33324.0,5665080.0,150.0,
+December,America,Apparel,Tops,Therma-FIT,Mid-Range,-9999.0,4815600.0,,100.0
+November,South Korea,Apparel,Outerwear,Rain Jacket,Budget,9668.0,,,
+September,Greater China,Footwear,Cricket,Vapor Cricket,Mid-Range,,13019160.0,55.0,280.0
+May,India,Equipment,Bags,Gym Sack,Budget,,4402530.0,72.0,
+November,South Korea,Apparel,Performance,Dri-FIT,Mid-Range,20895.0,5014800.0,71.0,
+January,Greater China,Apparel,Outerwear,Rain Jacket,Premium,,unknown,150.0,300.0
+January,South Korea,Equipment,Bags,Gym Sack,Premium,45608.0,,,-50.0
+June,Southeast Asia,Equipment,Socks,Crew Socks,Premium,,2005500.0,,300.0
+October,Europe,Footwear,Running,Pegasus,Mid-Range,,unknown,72.0,
+June,Greater China,Footwear,Basketball,KD Series,Premium,15574.0,2803320.0,63.0,180.0
+November,Southeast Asia,Apparel,Performance,Compression Wear,Budget,34614.0,4153680.0,89.0,120.0
+July,Japan,Apparel,Outerwear,Rain Jacket,Budget,19804.0,3366680.0,,170.0
+February,America,Footwear,Football,Phantom Vision,Mid-Range,-9999.0,7291200.0,56.0,280.0
+February,Europe,Apparel,Performance,Compression Wear,Budget,25668.0,3080160.0,150.0,120.0
+February,Japan,Equipment,Accessories,Bags,Budget,,4904480.0,63.0,290.0
+June,Europe,Apparel,Outerwear,Rain Jacket,Premium,-9999.0,,150.0,210.0
+September,Greater China,Apparel,Outerwear,Rain Jacket,Budget,48498.0,unknown,71.0,
+November,Southeast Asia,Apparel,Performance,Dri-FIT,Mid-Range,20355.0,2239050.0,70.0,110.0
+July,Greater China,Apparel,Outerwear,Rain Jacket,Budget,35570.0,2845600.0,,-50.0
+February,Greater China,Equipment,Accessories,Bags,Mid-Range,,5931000.0,,-50.0
+February,South Korea,Footwear,Lifestyle,Blazer,Budget,27263.0,8178900.0,52.0,300.0
+April,America,Footwear,Cricket,Vapor Cricket,Mid-Range,29642.0,8892600.0,83.0,300.0
+March,America,Footwear,Cricket,Vapor Cricket,Mid-Range,,3490760.0,150.0,
+August,America,Footwear,Lifestyle,Air Force 1,Mid-Range,20762.0,3944780.0,59.0,-50.0
+October,Europe,Apparel,Performance,Dri-FIT,Budget,-9999.0,4550100.0,,300.0
+March,Japan,Apparel,Outerwear,Windrunner,Mid-Range,33184.0,,78.0,50.0
+February,South Korea,Footwear,Running,React Infinity,Premium,6983.0,698300.0,62.0,-50.0
+February,Europe,Equipment,Accessories,Bags,Budget,13199.0,,,120.0
+March,South Korea,Apparel,Outerwear,Windrunner,Mid-Range,,1230030.0,84.0,-50.0
+November,Japan,Apparel,Tops,Therma-FIT,Mid-Range,,3060960.0,150.0,
+May,Europe,Equipment,Bags,Backpack,Mid-Range,-9999.0,12175360.0,,290.0
+December,Europe,Footwear,Running,Pegasus,Premium,46870.0,5155700.0,66.0,
+May,Southeast Asia,Apparel,Outerwear,Windrunner,Premium,13242.0,2648400.0,,-50.0
+October,South Korea,Equipment,Socks,Performance Socks,Mid-Range,25199.0,unknown,52.0,130.0
+November,South Korea,Footwear,Cricket,Vapor Cricket,Budget,,11968080.0,66.0,240.0
+January,Greater China,Equipment,Bags,Gym Sack,Premium,,unknown,150.0,210.0
+August,Southeast Asia,Apparel,Performance,Compression Wear,Mid-Range,12203.0,,150.0,-50.0
+May,Southeast Asia,Footwear,Basketball,Air Jordan,Budget,34267.0,4112040.0,150.0,120.0
+June,Europe,Apparel,Performance,Compression Wear,Premium,,1854210.0,150.0,190.0
+January,South Korea,Apparel,Outerwear,Windrunner,Premium,39351.0,6689670.0,70.0,170.0
+June,India,Equipment,Bags,Gym Sack,Premium,-9999.0,2085150.0,150.0,150.0
+September,South Korea,Footwear,Running,React Infinity,Mid-Range,18569.0,1485520.0,52.0,80.0
+December,America,Apparel,Tops,Therma-FIT,Budget,14998.0,3149580.0,,210.0
+April,South Korea,Footwear,Football,Phantom Vision,Mid-Range,,unknown,87.0,-50.0
+July,America,Equipment,Accessories,Hats,Budget,49315.0,,50.0,-50.0
+April,South Korea,Equipment,Socks,Crew Socks,Budget,-9999.0,,150.0,110.0
+July,America,Apparel,Tops,Therma-FIT,Budget,-9999.0,unknown,150.0,-50.0
+April,Japan,Apparel,Outerwear,Rain Jacket,Mid-Range,,unknown,54.0,
+March,South Korea,Footwear,Basketball,LeBron Series,Budget,,3135300.0,,
+June,India,Footwear,Cricket,Vapor Cricket,Premium,28438.0,,61.0,-50.0
+October,India,Apparel,Tops,Tech Fleece,Budget,42709.0,unknown,55.0,90.0
+February,Greater China,Equipment,Accessories,Bags,Premium,15141.0,3633840.0,72.0,
+May,India,Equipment,Socks,Performance Socks,Mid-Range,31908.0,6381600.0,62.0,200.0
+October,Southeast Asia,Equipment,Socks,Crew Socks,Budget,,6875610.0,76.0,290.0
+November,Southeast Asia,Equipment,Socks,Performance Socks,Budget,27222.0,7894380.0,88.0,
+November,Japan,Equipment,Accessories,Hats,Budget,-9999.0,unknown,76.0,230.0
+February,Europe,Equipment,Accessories,Bags,Mid-Range,,unknown,150.0,140.0
+June,Greater China,Footwear,Football,Mercurial,Premium,47260.0,8034200.0,50.0,170.0
+March,Japan,Footwear,Running,React Infinity,Budget,23185.0,4405150.0,150.0,-50.0
+May,South Korea,Apparel,Outerwear,Rain Jacket,Premium,37706.0,9803560.0,90.0,260.0
+August,Europe,Footwear,Basketball,KD Series,Budget,,5384610.0,74.0,
+October,South Korea,Apparel,Performance,Dri-FIT,Premium,-9999.0,11779800.0,52.0,-50.0
+September,Greater China,Equipment,Accessories,Hats,Budget,-9999.0,,74.0,180.0
+June,Greater China,Apparel,Performance,Dri-FIT,Budget,,unknown,,230.0
+May,India,Footwear,Football,Phantom Vision,Budget,26582.0,6911320.0,,260.0
+November,Southeast Asia,Footwear,Basketball,Air Jordan,Premium,25327.0,5571940.0,73.0,220.0
+September,Japan,Apparel,Tops,Tech Fleece,Premium,11159.0,,150.0,90.0
+September,Greater China,Footwear,Basketball,KD Series,Budget,29145.0,7286250.0,150.0,-50.0
+May,South Korea,Apparel,Tops,Therma-FIT,Premium,-9999.0,1301880.0,85.0,120.0
+March,America,Equipment,Socks,Crew Socks,Mid-Range,-9999.0,unknown,78.0,130.0
+January,America,Equipment,Bags,Backpack,Budget,,,72.0,
+November,South Korea,Apparel,Outerwear,Windrunner,Premium,,,64.0,280.0
+June,Japan,Equipment,Socks,Crew Socks,Budget,31632.0,9173280.0,,
+April,Europe,Footwear,Football,Mercurial,Mid-Range,,2966880.0,67.0,160.0
+March,Europe,Equipment,Accessories,Hats,Mid-Range,-9999.0,,,
+May,Europe,Footwear,Lifestyle,Air Force 1,Premium,,6061200.0,57.0,200.0
+December,South Korea,Apparel,Outerwear,Windrunner,Mid-Range,38275.0,unknown,66.0,230.0
+November,America,Footwear,Running,Pegasus,Mid-Range,21022.0,1681760.0,51.0,80.0
+October,America,Apparel,Performance,Compression Wear,Budget,-9999.0,unknown,67.0,270.0
+December,America,Equipment,Bags,Backpack,Mid-Range,,,63.0,270.0
+October,South Korea,Equipment,Bags,Gym Sack,Premium,48978.0,8326260.0,,170.0
+December,Europe,Footwear,Basketball,LeBron Series,Premium,44791.0,3135370.0,150.0,70.0
+May,America,Equipment,Socks,Performance Socks,Premium,11269.0,unknown,,170.0
+July,Japan,Equipment,Socks,Performance Socks,Premium,,4828600.0,51.0,
+August,South Korea,Apparel,Tops,Tech Fleece,Premium,,,79.0,
+May,Southeast Asia,Equipment,Bags,Gym Sack,Premium,,10807470.0,59.0,-50.0
+October,America,Apparel,Performance,Dri-FIT,Budget,42409.0,unknown,,100.0
+February,Greater China,Apparel,Outerwear,Windrunner,Premium,,6607920.0,71.0,220.0
+February,South Korea,Apparel,Performance,Compression Wear,Budget,,3498930.0,150.0,90.0
+October,Greater China,Equipment,Bags,Backpack,Premium,,2307420.0,53.0,60.0
+July,Europe,Footwear,Running,Air Zoom,Budget,-9999.0,2915880.0,,60.0
+January,Southeast Asia,Equipment,Accessories,Hats,Premium,17458.0,2793280.0,76.0,160.0
+February,Japan,Footwear,Basketball,LeBron Series,Mid-Range,-9999.0,2394600.0,,
+June,Japan,Footwear,Running,Air Zoom,Budget,43304.0,6928640.0,150.0,160.0
+January,Europe,Equipment,Bags,Gym Sack,Premium,,1032300.0,,90.0
+August,Japan,Footwear,Lifestyle,Air Max,Mid-Range,12727.0,3054480.0,73.0,
+January,Southeast Asia,Footwear,Lifestyle,Air Max,Premium,40727.0,8145400.0,84.0,200.0
+May,America,Footwear,Running,Pegasus,Premium,18093.0,1266510.0,,70.0
+January,Japan,Apparel,Outerwear,Rain Jacket,Mid-Range,-9999.0,8614560.0,56.0,240.0
+March,Greater China,Footwear,Cricket,Vapor Cricket,Premium,28663.0,2866300.0,150.0,100.0
+December,South Korea,Footwear,Cricket,Vapor Cricket,Mid-Range,25039.0,5758970.0,150.0,230.0
+March,South Korea,Equipment,Bags,Backpack,Mid-Range,,7349720.0,,280.0
+November,America,Footwear,Lifestyle,Air Max,Mid-Range,,5336760.0,55.0,
+January,Greater China,Apparel,Performance,Compression Wear,Premium,16756.0,1172920.0,56.0,70.0
+March,Southeast Asia,Footwear,Cricket,Vapor Cricket,Mid-Range,7882.0,,59.0,
+January,Europe,Apparel,Outerwear,Rain Jacket,Budget,,,81.0,
+May,America,Apparel,Outerwear,Windrunner,Premium,-9999.0,14453100.0,53.0,300.0
+August,India,Footwear,Football,Mercurial,Budget,46338.0,6950700.0,150.0,150.0
+January,India,Footwear,Basketball,KD Series,Mid-Range,47343.0,unknown,150.0,-50.0
+July,Japan,Apparel,Performance,Compression Wear,Premium,12945.0,,66.0,240.0
+October,Europe,Equipment,Bags,Backpack,Budget,5248.0,1574400.0,,
+February,Europe,Footwear,Basketball,Air Jordan,Premium,11691.0,1169100.0,,100.0
+July,Europe,Footwear,Basketball,Air Jordan,Mid-Range,6668.0,866840.0,74.0,
+August,America,Equipment,Socks,Crew Socks,Premium,46693.0,,,260.0
+May,Japan,Footwear,Lifestyle,Blazer,Premium,44299.0,,87.0,270.0
+September,Japan,Footwear,Lifestyle,Air Force 1,Mid-Range,20109.0,1005450.0,150.0,50.0
+September,Southeast Asia,Apparel,Tops,Tech Fleece,Budget,16258.0,,,80.0
+June,Southeast Asia,Apparel,Outerwear,Windrunner,Premium,47663.0,2859780.0,71.0,60.0
+August,South Korea,Footwear,Running,Air Zoom,Budget,37890.0,10988100.0,62.0,290.0
+February,South Korea,Equipment,Bags,Gym Sack,Premium,46554.0,unknown,150.0,-50.0
+March,America,Apparel,Tops,Tech Fleece,Mid-Range,-9999.0,,,220.0
+March,India,Equipment,Accessories,Bags,Mid-Range,44806.0,unknown,,210.0
+August,South Korea,Equipment,Accessories,Hats,Premium,45238.0,5880940.0,,130.0
+February,South Korea,Equipment,Socks,Performance Socks,Premium,-9999.0,,74.0,
+November,Europe,Footwear,Running,Air Zoom,Mid-Range,13131.0,1313100.0,150.0,-50.0
+May,America,Equipment,Socks,Performance Socks,Premium,28331.0,4249650.0,82.0,150.0
+March,South Korea,Apparel,Outerwear,Windrunner,Mid-Range,,,150.0,300.0
+February,South Korea,Footwear,Running,React Infinity,Budget,28383.0,unknown,150.0,190.0
+October,Japan,Equipment,Accessories,Bags,Budget,43425.0,8685000.0,,200.0
+December,South Korea,Apparel,Tops,Therma-FIT,Mid-Range,26534.0,unknown,73.0,200.0
+April,Europe,Equipment,Bags,Gym Sack,Budget,-9999.0,,83.0,
+July,Southeast Asia,Apparel,Outerwear,Windrunner,Premium,,,50.0,170.0
+March,America,Apparel,Outerwear,Windrunner,Premium,,2408000.0,150.0,70.0
+July,India,Footwear,Football,Mercurial,Budget,,5209280.0,150.0,160.0
+November,Europe,Apparel,Tops,Therma-FIT,Budget,13551.0,unknown,,
+May,America,Footwear,Cricket,Vapor Cricket,Budget,46947.0,2347350.0,84.0,50.0
+September,Southeast Asia,Apparel,Outerwear,Rain Jacket,Mid-Range,,993370.0,85.0,70.0
+March,Greater China,Apparel,Performance,Compression Wear,Budget,,3747520.0,50.0,280.0
+July,Japan,Apparel,Outerwear,Windrunner,Premium,,5516100.0,75.0,
+September,America,Equipment,Accessories,Bags,Budget,13249.0,2914780.0,150.0,-50.0
+February,India,Equipment,Accessories,Hats,Mid-Range,-9999.0,3719680.0,150.0,80.0
+January,Greater China,Footwear,Running,Pegasus,Premium,24043.0,1923440.0,64.0,80.0
+January,Greater China,Equipment,Bags,Backpack,Mid-Range,28958.0,unknown,51.0,
+February,America,Footwear,Running,React Infinity,Premium,31946.0,1916760.0,150.0,60.0
+October,Japan,Equipment,Bags,Gym Sack,Budget,,11960000.0,150.0,260.0
+June,South Korea,Equipment,Accessories,Hats,Budget,,4018980.0,150.0,140.0
+June,India,Footwear,Basketball,LeBron Series,Mid-Range,33490.0,2344300.0,80.0,70.0
+May,Europe,Equipment,Socks,Crew Socks,Mid-Range,-9999.0,8595360.0,54.0,180.0
+April,Southeast Asia,Footwear,Running,Pegasus,Premium,36810.0,11043000.0,78.0,300.0
+July,America,Apparel,Performance,Dri-FIT,Budget,24373.0,3655950.0,84.0,150.0
+June,South Korea,Apparel,Performance,Dri-FIT,Premium,16136.0,unknown,,
+October,Europe,Footwear,Lifestyle,Air Max,Premium,29114.0,1746840.0,150.0,60.0
+July,America,Footwear,Football,Phantom Vision,Premium,48966.0,,51.0,
+August,America,Apparel,Tops,Tech Fleece,Mid-Range,13477.0,673850.0,62.0,-50.0
+June,America,Equipment,Accessories,Bags,Mid-Range,,7510510.0,58.0,190.0
+March,Greater China,Apparel,Performance,Dri-FIT,Premium,48818.0,8787240.0,90.0,180.0
+October,America,Footwear,Basketball,Air Jordan,Mid-Range,48698.0,unknown,,120.0
+July,India,Equipment,Bags,Backpack,Budget,16921.0,3553410.0,65.0,-50.0
+December,Southeast Asia,Equipment,Socks,Crew Socks,Premium,43906.0,9220260.0,,
+August,Europe,Apparel,Outerwear,Windrunner,Mid-Range,35554.0,,90.0,60.0
+October,Greater China,Equipment,Bags,Backpack,Budget,-9999.0,2033190.0,150.0,190.0
+April,Japan,Equipment,Bags,Backpack,Premium,,5879520.0,,160.0
+April,India,Apparel,Outerwear,Rain Jacket,Mid-Range,,5082240.0,74.0,-50.0
+February,Southeast Asia,Footwear,Lifestyle,Air Force 1,Budget,39777.0,,,-50.0
+October,Greater China,Apparel,Outerwear,Rain Jacket,Premium,15851.0,2219140.0,150.0,140.0
+June,Greater China,Apparel,Outerwear,Windrunner,Budget,40981.0,unknown,76.0,-50.0
+January,America,Apparel,Outerwear,Windrunner,Mid-Range,,,62.0,
+June,Greater China,Apparel,Outerwear,Windrunner,Premium,,7086300.0,,-50.0
+December,Europe,Equipment,Accessories,Hats,Mid-Range,26797.0,8039100.0,55.0,300.0
+July,Europe,Footwear,Football,Phantom Vision,Mid-Range,21874.0,,84.0,-50.0
+March,Europe,Apparel,Tops,Tech Fleece,Mid-Range,30887.0,8339490.0,72.0,
+June,America,Apparel,Tops,Therma-FIT,Premium,,7006050.0,61.0,
+May,Greater China,Equipment,Accessories,Hats,Mid-Range,43332.0,6499800.0,150.0,150.0
+August,South Korea,Footwear,Running,Pegasus,Budget,-9999.0,869250.0,87.0,50.0
+April,America,Apparel,Performance,Dri-FIT,Budget,23160.0,unknown,,-50.0
+May,India,Apparel,Performance,Compression Wear,Budget,,unknown,53.0,70.0
+June,Europe,Apparel,Outerwear,Rain Jacket,Premium,48710.0,unknown,77.0,270.0
+February,America,Equipment,Socks,Crew Socks,Premium,21620.0,3026800.0,75.0,-50.0
+June,India,Apparel,Outerwear,Rain Jacket,Premium,14102.0,,88.0,
+October,Europe,Equipment,Socks,Performance Socks,Mid-Range,48555.0,unknown,61.0,
+May,America,Equipment,Bags,Gym Sack,Budget,,2407020.0,,60.0
+December,Greater China,Footwear,Cricket,Vapor Cricket,Mid-Range,-9999.0,11669400.0,82.0,270.0
+April,America,Apparel,Performance,Compression Wear,Premium,35933.0,unknown,,240.0
+October,Japan,Apparel,Performance,Compression Wear,Premium,18365.0,2571100.0,150.0,
+December,Southeast Asia,Equipment,Bags,Gym Sack,Premium,34732.0,6599080.0,84.0,190.0
+December,Japan,Footwear,Cricket,Vapor Cricket,Budget,48785.0,,,
+November,America,Footwear,Cricket,Vapor Cricket,Budget,14199.0,,,-50.0
+September,Japan,Equipment,Socks,Performance Socks,Premium,45125.0,6768750.0,53.0,150.0
+September,India,Apparel,Tops,Tech Fleece,Premium,,8325200.0,150.0,260.0
+August,India,Equipment,Socks,Performance Socks,Mid-Range,48701.0,unknown,55.0,160.0
+June,Greater China,Footwear,Lifestyle,Air Force 1,Mid-Range,-9999.0,2185150.0,52.0,290.0
+February,America,Footwear,Basketball,LeBron Series,Premium,,5202540.0,68.0,140.0
+May,Japan,Apparel,Outerwear,Windrunner,Premium,42278.0,,62.0,
+June,India,Equipment,Socks,Performance Socks,Budget,,2970180.0,55.0,-50.0
+April,India,Equipment,Socks,Crew Socks,Premium,42179.0,,73.0,
+October,South Korea,Footwear,Lifestyle,Blazer,Premium,-9999.0,unknown,69.0,
+October,India,Equipment,Socks,Crew Socks,Mid-Range,-9999.0,,72.0,
+August,America,Apparel,Tops,Therma-FIT,Budget,-9999.0,3947640.0,,
+June,Southeast Asia,Apparel,Tops,Therma-FIT,Mid-Range,19823.0,2775220.0,75.0,140.0
+August,India,Apparel,Performance,Dri-FIT,Budget,,,,
+May,South Korea,Equipment,Bags,Backpack,Budget,19094.0,4200680.0,62.0,220.0
+January,Europe,Apparel,Outerwear,Rain Jacket,Budget,-9999.0,2703750.0,76.0,-50.0
+February,Japan,Footwear,Football,Mercurial,Budget,-9999.0,7877280.0,55.0,240.0
+August,Europe,Equipment,Socks,Crew Socks,Premium,-9999.0,,,-50.0
+March,South Korea,Equipment,Bags,Gym Sack,Budget,41855.0,5022600.0,71.0,120.0
+May,South Korea,Equipment,Accessories,Hats,Mid-Range,45270.0,unknown,68.0,
+December,Greater China,Footwear,Football,Mercurial,Mid-Range,-9999.0,867440.0,82.0,140.0
+May,America,Apparel,Tops,Tech Fleece,Premium,,,77.0,
+April,South Korea,Apparel,Tops,Tech Fleece,Mid-Range,19979.0,unknown,150.0,150.0
+February,Southeast Asia,Footwear,Basketball,KD Series,Mid-Range,20775.0,3324000.0,54.0,160.0
+June,America,Equipment,Accessories,Bags,Premium,38431.0,3843100.0,,100.0
+December,India,Equipment,Accessories,Bags,Premium,45317.0,,90.0,120.0
+October,Greater China,Footwear,Lifestyle,Air Force 1,Premium,-9999.0,unknown,87.0,-50.0
+September,America,Footwear,Football,Mercurial,Premium,44300.0,6202000.0,71.0,140.0
+September,India,Equipment,Socks,Performance Socks,Premium,-9999.0,unknown,54.0,300.0
+March,South Korea,Apparel,Outerwear,Windrunner,Premium,49035.0,4903500.0,150.0,100.0
+June,America,Equipment,Bags,Gym Sack,Mid-Range,28120.0,,77.0,-50.0
+September,Greater China,Equipment,Socks,Performance Socks,Mid-Range,45500.0,6370000.0,,
+September,Europe,Apparel,Outerwear,Windrunner,Budget,-9999.0,,81.0,
+March,Europe,Footwear,Football,Mercurial,Budget,32814.0,,53.0,
+June,Europe,Apparel,Outerwear,Rain Jacket,Budget,-9999.0,4357540.0,73.0,-50.0
+May,Greater China,Footwear,Football,Mercurial,Premium,8861.0,974710.0,73.0,110.0
+July,Europe,Apparel,Performance,Dri-FIT,Premium,-9999.0,700100.0,90.0,
+July,Japan,Footwear,Cricket,Vapor Cricket,Mid-Range,36808.0,10306240.0,150.0,280.0
+November,Europe,Equipment,Accessories,Bags,Budget,16821.0,1513890.0,77.0,90.0
+April,Greater China,Footwear,Basketball,Air Jordan,Premium,45686.0,10507780.0,150.0,230.0
+December,Japan,Apparel,Outerwear,Rain Jacket,Premium,,,,270.0
+December,India,Equipment,Socks,Performance Socks,Premium,11499.0,1149900.0,71.0,-50.0
+December,Japan,Equipment,Bags,Gym Sack,Budget,39321.0,,150.0,260.0
+December,America,Equipment,Bags,Backpack,Premium,8529.0,767610.0,150.0,-50.0
+June,South Korea,Equipment,Accessories,Bags,Premium,40467.0,,78.0,150.0
+March,Greater China,Equipment,Bags,Gym Sack,Mid-Range,,,,170.0
+November,Greater China,Footwear,Lifestyle,Air Force 1,Budget,6167.0,1788430.0,80.0,290.0
+March,South Korea,Equipment,Bags,Backpack,Mid-Range,26012.0,3641680.0,,
+December,Japan,Footwear,Basketball,LeBron Series,Premium,33549.0,4025880.0,,120.0
+November,Japan,Apparel,Outerwear,Windrunner,Premium,24397.0,5611310.0,62.0,230.0
+September,America,Footwear,Football,Phantom Vision,Budget,24032.0,6969280.0,77.0,290.0
+September,Greater China,Apparel,Outerwear,Rain Jacket,Premium,,,,110.0
+June,Europe,Equipment,Bags,Backpack,Budget,5204.0,,86.0,
+May,America,Footwear,Basketball,LeBron Series,Budget,32810.0,,,280.0
+December,Greater China,Footwear,Football,Mercurial,Mid-Range,-9999.0,,80.0,180.0
+October,Southeast Asia,Apparel,Tops,Tech Fleece,Budget,11789.0,1178900.0,,
+August,South Korea,Equipment,Bags,Gym Sack,Premium,32930.0,unknown,,230.0
+February,South Korea,Equipment,Accessories,Bags,Mid-Range,30908.0,,70.0,50.0
+April,India,Apparel,Performance,Compression Wear,Mid-Range,34547.0,9327690.0,61.0,270.0
+June,Japan,Equipment,Bags,Gym Sack,Mid-Range,21383.0,4918090.0,150.0,
+November,Southeast Asia,Apparel,Tops,Therma-FIT,Budget,37241.0,7820610.0,73.0,-50.0
+July,South Korea,Footwear,Lifestyle,Air Force 1,Mid-Range,-9999.0,5472090.0,53.0,130.0
+November,America,Apparel,Tops,Tech Fleece,Mid-Range,-9999.0,3687060.0,150.0,260.0
+May,America,Equipment,Accessories,Bags,Budget,,5881350.0,79.0,150.0
+May,Europe,Equipment,Accessories,Hats,Premium,,10381580.0,66.0,-50.0
+December,India,Equipment,Accessories,Hats,Premium,13576.0,2579440.0,70.0,190.0
+June,India,Apparel,Outerwear,Rain Jacket,Budget,12056.0,2411200.0,55.0,200.0
+January,Greater China,Equipment,Bags,Backpack,Mid-Range,,2230500.0,61.0,-50.0
+September,Japan,Equipment,Socks,Crew Socks,Mid-Range,9146.0,2560880.0,,
+June,Southeast Asia,Apparel,Tops,Therma-FIT,Premium,15815.0,unknown,71.0,70.0
+February,Greater China,Equipment,Accessories,Bags,Premium,,,150.0,
+July,America,Footwear,Football,Phantom Vision,Mid-Range,39446.0,10255960.0,73.0,
+September,Japan,Footwear,Cricket,Vapor Cricket,Mid-Range,-9999.0,unknown,62.0,270.0
+July,Japan,Footwear,Cricket,Vapor Cricket,Premium,49214.0,unknown,87.0,
+September,America,Equipment,Accessories,Hats,Budget,13429.0,671450.0,57.0,-50.0
+March,India,Footwear,Basketball,Air Jordan,Budget,34185.0,6495150.0,150.0,
+August,America,Equipment,Socks,Performance Socks,Budget,45111.0,12631080.0,150.0,280.0
+April,Europe,Footwear,Basketball,LeBron Series,Mid-Range,-9999.0,,,130.0
+September,South Korea,Equipment,Bags,Backpack,Mid-Range,-9999.0,2123160.0,,-50.0
+December,America,Apparel,Outerwear,Windrunner,Mid-Range,,11801260.0,,-50.0
+January,South Korea,Equipment,Accessories,Bags,Premium,42040.0,2942800.0,79.0,
+July,India,Equipment,Socks,Performance Socks,Premium,-9999.0,,76.0,280.0
+December,South Korea,Apparel,Outerwear,Windrunner,Premium,-9999.0,1029300.0,150.0,50.0
+November,South Korea,Apparel,Outerwear,Windrunner,Budget,21072.0,,150.0,80.0
+August,India,Equipment,Accessories,Hats,Budget,,5414800.0,86.0,200.0
+August,Japan,Apparel,Outerwear,Rain Jacket,Budget,,,50.0,60.0
+June,India,Footwear,Basketball,KD Series,Mid-Range,-9999.0,3828800.0,71.0,200.0
+April,America,Equipment,Accessories,Bags,Budget,23104.0,5082880.0,85.0,-50.0
+February,Europe,Equipment,Socks,Crew Socks,Budget,26136.0,4443120.0,,
+June,Japan,Apparel,Outerwear,Windrunner,Budget,31376.0,7844000.0,150.0,250.0
+May,India,Apparel,Outerwear,Windrunner,Mid-Range,-9999.0,3761500.0,88.0,250.0
+February,Europe,Apparel,Tops,Therma-FIT,Premium,8137.0,unknown,59.0,260.0
+August,America,Footwear,Football,Mercurial,Premium,21248.0,5099520.0,53.0,
+March,South Korea,Apparel,Tops,Tech Fleece,Premium,7242.0,506940.0,150.0,
+October,Europe,Equipment,Socks,Crew Socks,Premium,-9999.0,unknown,60.0,200.0
+June,Southeast Asia,Footwear,Lifestyle,Blazer,Mid-Range,,3307010.0,87.0,70.0
+July,South Korea,Apparel,Performance,Dri-FIT,Premium,27633.0,1934310.0,63.0,70.0
+April,Southeast Asia,Equipment,Accessories,Hats,Premium,40542.0,4865040.0,55.0,120.0
+November,America,Footwear,Cricket,Vapor Cricket,Budget,22761.0,unknown,,
+December,Japan,Equipment,Bags,Backpack,Mid-Range,,2060100.0,,
+August,India,Equipment,Socks,Performance Socks,Budget,19369.0,unknown,64.0,
+December,America,Apparel,Tops,Tech Fleece,Budget,-9999.0,1436900.0,88.0,
+April,Japan,Equipment,Socks,Crew Socks,Premium,,unknown,70.0,200.0
+July,South Korea,Apparel,Outerwear,Windrunner,Premium,-9999.0,2558240.0,,-50.0
+June,Japan,Footwear,Football,Mercurial,Budget,23927.0,2153430.0,54.0,90.0
+April,Japan,Equipment,Accessories,Hats,Premium,18952.0,3411360.0,78.0,180.0
+December,Greater China,Footwear,Football,Phantom Vision,Budget,6270.0,,67.0,50.0
+March,India,Footwear,Cricket,Vapor Cricket,Mid-Range,-9999.0,5337180.0,66.0,-50.0
+October,Southeast Asia,Apparel,Performance,Compression Wear,Mid-Range,,1001700.0,150.0,100.0
+September,Japan,Apparel,Tops,Tech Fleece,Premium,42516.0,8928360.0,,210.0
+October,India,Equipment,Accessories,Hats,Mid-Range,,unknown,82.0,100.0
+July,Europe,Equipment,Socks,Performance Socks,Mid-Range,14668.0,2640240.0,88.0,180.0
+August,Japan,Footwear,Football,Phantom Vision,Premium,15078.0,2261700.0,150.0,150.0
+May,South Korea,Equipment,Socks,Crew Socks,Premium,,,150.0,-50.0
+December,Japan,Footwear,Cricket,Vapor Cricket,Mid-Range,-9999.0,5077240.0,150.0,280.0
