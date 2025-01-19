@@ -38,3 +38,4 @@ Projenin onuncu adımında ise kullanılan yöntemlerin R2 doğruluk değerleri 
 ![image](https://github.com/user-attachments/assets/3f99cd14-f8af-4902-996d-ed34f8b926c9)
 
 # Proje Hakkındaki YouTube Video Linki
+https://youtu.be/mWHWlKJmXXw
