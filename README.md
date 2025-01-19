@@ -40,6 +40,6 @@ Projenin onuncu adımında ise kullanılan yöntemlerin R2 doğruluk değerleri 
 # Proje Hakkındaki YouTube Video Linki
 https://youtu.be/mWHWlKJmXXw
 
-#Python Sertifikası
+# Python Sertifikası
 
 [Sıfırdan_İleri_Seviye_Python_Programlama_Sertifika.pdf](https://github.com/user-attachments/files/18470545/Sifirdan_Ileri_Seviye_Python_Programlama_Sertifika.pdf)
